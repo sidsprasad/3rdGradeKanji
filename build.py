@@ -36,8 +36,9 @@ def reading_spans(rs, cls):
 
 GRADE_NAME = {1: '1st grade', 2: '2nd grade', 3: '3rd grade'}
 
-cards = []
-index_cells = []
+PAGE_SIZE = 10  # kanji per page — keeps each page light to load
+
+entries = []  # one entry per authored kanji, in rank order
 
 for r in ordered:
     k = r['k']
@@ -73,7 +74,7 @@ for r in ordered:
     on = reading_spans(r['on'], 'on')
     kun = reading_spans(r['kun'], 'kun')
 
-    cards.append("""
+    card_html = ("""
 <section class="card" id="k%d" data-k="%s" data-rank="%d" data-search="%s">
   <div class="hero">
     <div class="glyphbox"><div class="glyph">%s</div><div class="rank">%d</div></div>
@@ -118,10 +119,48 @@ for r in ordered:
         '<div class="tracebox"></div>' * 5,
     ))
 
-    index_cells.append('<a class="icell" href="#k%d" title="%s"><span class="ik">%s</span><span class="in">%d</span></a>'
-                       % (rank, E(c['kw']), E(k), rank))
+    entries.append({'k': k, 'rank': rank, 'kw': c['kw'], 'card': card_html})
 
-stroke_data = json.dumps({k: strokes[k] for k in content}, ensure_ascii=False, separators=(',', ':'))
+# Pagination is derived purely from the number of authored entries at build
+# time (not hand-assigned), so page boundaries always match whatever content
+# currently exists, independent of how the build happened to run.
+total_pages = max(1, (len(entries) + PAGE_SIZE - 1) // PAGE_SIZE)
+
+
+def page_num(i):
+    return i // PAGE_SIZE + 1
+
+
+def page_file(n):
+    return 'kanji.html' if n == 1 else 'kanji-%d.html' % n
+
+
+for i, e in enumerate(entries):
+    e['page'] = page_num(i)
+
+# Lightweight global index: every kanji, linking straight to the page (and
+# in-page anchor) that will actually contain it once split up.
+index_cells = [
+    '<a class="icell" href="%s#k%d" title="%s"><span class="ik">%s</span><span class="in">%d</span></a>'
+    % (page_file(e['page']), e['rank'], E(e['kw']), E(e['k']), e['rank'])
+    for e in entries
+]
+
+pages = [entries[i:i + PAGE_SIZE] for i in range(0, len(entries), PAGE_SIZE)]
+
+
+def pager_html(n):
+    if n > 1:
+        prev = '<a class="btn pnav" href="%s">&larr; Prev</a>' % page_file(n - 1)
+    else:
+        prev = '<span class="btn pnav" aria-disabled="true">&larr; Prev</span>'
+    if n < total_pages:
+        nxt = '<a class="btn pnav" href="%s">Next &rarr;</a>' % page_file(n + 1)
+    else:
+        nxt = '<span class="btn pnav" aria-disabled="true">Next &rarr;</span>'
+    return ('<nav class="pager noprint">%s<span class="pageinfo">Page %d of %d</span>%s</nav>'
+            % (prev, n, total_pages, nxt))
+
 
 CSS = """
 :root{
@@ -176,6 +215,11 @@ header.top p{color:var(--muted);margin:0 0 4px;font-size:.95rem}
 .icell:hover{border-color:var(--accent);background:var(--accent-soft)}
 .ik{font-family:var(--jp);font-size:1.35rem;line-height:1.1}
 .in{font-size:.62rem;color:var(--muted);font-variant-numeric:tabular-nums}
+
+/* pager */
+.pager{display:flex;align-items:center;justify-content:space-between;gap:10px;margin:18px 0}
+.pageinfo{font-size:.82rem;color:var(--muted);font-variant-numeric:tabular-nums}
+.pnav[aria-disabled="true"]{opacity:.4;pointer-events:none}
 
 /* card */
 .card{background:var(--panel);border:1px solid var(--line);border-radius:16px;
@@ -272,7 +316,7 @@ footer{color:var(--muted);font-size:.8rem;padding:30px 0;text-align:center;borde
 }
 """
 
-JS = """
+JS_TEMPLATE = """
 const S = %s;
 
 function svgFrame(paths, upto, hi, nums){
@@ -364,9 +408,9 @@ qb.addEventListener('click',()=>{
   try{ localStorage.setItem('kanji-quiz', on?'1':''); }catch(e){}
 });
 try{ if(localStorage.getItem('kanji-quiz')){ document.body.classList.add('quiz'); qb.setAttribute('aria-pressed','true'); } }catch(e){}
-""" % stroke_data
+"""
 
-BODY = """
+BODY_TEMPLATE = """
 <div class="bar">
   <div class="barin">
     <input id="q" type="search" placeholder="Search kanji, reading, meaning or number…" autocomplete="off">
@@ -379,7 +423,8 @@ BODY = """
   <header class="top">
     <h1>Kanji through 3rd grade — %d characters</h1>
     <p>Every kanji Japanese children learn in elementary school years 1&ndash;3, ordered from
-       most to least common in real newspaper text. One page each.</p>
+       most to least common in real newspaper text. Split into pages of %d so each page stays
+       light to load — this is page %d of %d, kanji #%d&ndash;#%d.</p>
     <p class="noprint" style="font-size:.85rem">Tap <b>Quiz</b> to hide the kanji and its stroke order &mdash;
        the meaning and readings stay visible, so you can practise writing it from memory.
        Hover or tap a card to reveal. Print this page to get a PDF, one kanji per sheet.</p>
@@ -390,7 +435,11 @@ BODY = """
     <div class="index">%s</div>
   </details>
 
+  %s
+
   <div id="empty" class="empty hidden">Nothing matches that search.</div>
+
+  %s
 
   %s
 
@@ -399,19 +448,47 @@ BODY = """
     Stroke order data from KanjiVG (CC BY-SA 3.0). Word readings checked against JMdict.
   </footer>
 </div>
-"""% (len(ordered), len(ordered), ''.join(index_cells), ''.join(cards))
+"""
 
 TITLE = 'Kanji to 3rd Grade'
 
-full = ('<!doctype html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n'
-        '<meta name="viewport" content="width=device-width,initial-scale=1">\n'
-        '<title>%s</title>\n<style>%s</style>\n</head>\n<body>\n%s\n<script>%s</script>\n</body>\n</html>\n'
-        % (TITLE, CSS, BODY, JS))
+index_html = ''.join(index_cells)
 
-open('kanji.html', 'w', encoding='utf-8').write(full)
-print('wrote kanji.html  %.2f MB' % (os.path.getsize('kanji.html') / 1048576))
 
-# artifact variant: no doctype/html/head/body wrapper
-art = '<title>%s</title>\n<style>%s</style>\n%s\n<script>%s</script>\n' % (TITLE, CSS, BODY, JS)
+def render_page(page_entries, n):
+    stroke_data = json.dumps({e['k']: strokes[e['k']] for e in page_entries},
+                              ensure_ascii=False, separators=(',', ':'))
+    js = JS_TEMPLATE % stroke_data
+    pager = pager_html(n)
+    body = BODY_TEMPLATE % (
+        len(ordered), PAGE_SIZE, n, total_pages,
+        page_entries[0]['rank'], page_entries[-1]['rank'],
+        len(entries), index_html,
+        pager, ''.join(e['card'] for e in page_entries), pager,
+    )
+    title = TITLE if total_pages == 1 else '%s — page %d/%d' % (TITLE, n, total_pages)
+    return title, body, js
+
+
+def full_doc(title, body, js):
+    return ('<!doctype html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n'
+            '<meta name="viewport" content="width=device-width,initial-scale=1">\n'
+            '<title>%s</title>\n<style>%s</style>\n</head>\n<body>\n%s\n<script>%s</script>\n</body>\n</html>\n'
+            % (title, CSS, body, js))
+
+
+written = []
+for n, page_entries in enumerate(pages, start=1):
+    title, body, js = render_page(page_entries, n)
+    fname = page_file(n)
+    open(fname, 'w', encoding='utf-8').write(full_doc(title, body, js))
+    written.append(fname)
+
+print('wrote %d page(s): %s' % (len(written), ', '.join(written)))
+print('kanji.html  %.2f MB' % (os.path.getsize('kanji.html') / 1048576))
+
+# artifact variant of page 1: no doctype/html/head/body wrapper
+title1, body1, js1 = render_page(pages[0], 1)
+art = '<title>%s</title>\n<style>%s</style>\n%s\n<script>%s</script>\n' % (title1, CSS, body1, js1)
 open('artifact.html', 'w', encoding='utf-8').write(art)
 print('wrote artifact.html %.2f MB' % (os.path.getsize('artifact.html') / 1048576))
