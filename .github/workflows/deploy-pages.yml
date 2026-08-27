@@ -37,6 +37,7 @@ jobs:
       - name: Prepare Pages site
         run: |
           mkdir -p _site
+          cp kanji*.html _site/
           cp kanji.html _site/index.html
 
       - name: Upload Pages artifact
