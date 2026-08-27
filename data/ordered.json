@@ -1,0 +1,8861 @@
+[
+ {
+  "k": "日",
+  "freq": 1,
+  "grade": 1,
+  "sc": 4,
+  "on": [
+   "ニチ",
+   "ジツ"
+  ],
+  "kun": [
+   "ひ",
+   "-び",
+   "-か"
+  ],
+  "mean": [
+   "day",
+   "sun",
+   "Japan",
+   "counter for days"
+  ],
+  "rank": 1
+ },
+ {
+  "k": "一",
+  "freq": 2,
+  "grade": 1,
+  "sc": 1,
+  "on": [
+   "イチ",
+   "イツ"
+  ],
+  "kun": [
+   "ひと-",
+   "ひと.つ"
+  ],
+  "mean": [
+   "one",
+   "one radical (no.1)"
+  ],
+  "rank": 2
+ },
+ {
+  "k": "国",
+  "freq": 3,
+  "grade": 2,
+  "sc": 8,
+  "on": [
+   "コク"
+  ],
+  "kun": [
+   "くに"
+  ],
+  "mean": [
+   "country"
+  ],
+  "rank": 3
+ },
+ {
+  "k": "会",
+  "freq": 4,
+  "grade": 2,
+  "sc": 6,
+  "on": [
+   "カイ",
+   "エ"
+  ],
+  "kun": [
+   "あ.う",
+   "あ.わせる",
+   "あつ.まる"
+  ],
+  "mean": [
+   "meeting",
+   "meet",
+   "party",
+   "association",
+   "interview",
+   "join"
+  ],
+  "rank": 4
+ },
+ {
+  "k": "人",
+  "freq": 5,
+  "grade": 1,
+  "sc": 2,
+  "on": [
+   "ジン",
+   "ニン"
+  ],
+  "kun": [
+   "ひと",
+   "-り",
+   "-と"
+  ],
+  "mean": [
+   "person"
+  ],
+  "rank": 5
+ },
+ {
+  "k": "年",
+  "freq": 6,
+  "grade": 1,
+  "sc": 6,
+  "on": [
+   "ネン"
+  ],
+  "kun": [
+   "とし"
+  ],
+  "mean": [
+   "year",
+   "counter for years"
+  ],
+  "rank": 6
+ },
+ {
+  "k": "大",
+  "freq": 7,
+  "grade": 1,
+  "sc": 3,
+  "on": [
+   "ダイ",
+   "タイ"
+  ],
+  "kun": [
+   "おお-",
+   "おお.きい",
+   "-おお.いに"
+  ],
+  "mean": [
+   "large",
+   "big"
+  ],
+  "rank": 7
+ },
+ {
+  "k": "十",
+  "freq": 8,
+  "grade": 1,
+  "sc": 2,
+  "on": [
+   "ジュウ",
+   "ジッ",
+   "ジュッ"
+  ],
+  "kun": [
+   "とお",
+   "と",
+   "そ"
+  ],
+  "mean": [
+   "ten"
+  ],
+  "rank": 8
+ },
+ {
+  "k": "二",
+  "freq": 9,
+  "grade": 1,
+  "sc": 2,
+  "on": [
+   "ニ",
+   "ジ"
+  ],
+  "kun": [
+   "ふた",
+   "ふた.つ",
+   "ふたたび"
+  ],
+  "mean": [
+   "two",
+   "two radical (no. 7)"
+  ],
+  "rank": 9
+ },
+ {
+  "k": "本",
+  "freq": 10,
+  "grade": 1,
+  "sc": 5,
+  "on": [
+   "ホン"
+  ],
+  "kun": [
+   "もと"
+  ],
+  "mean": [
+   "book",
+   "present",
+   "main",
+   "origin",
+   "true",
+   "real",
+   "counter for long cylindrical things"
+  ],
+  "rank": 10
+ },
+ {
+  "k": "中",
+  "freq": 11,
+  "grade": 1,
+  "sc": 4,
+  "on": [
+   "チュウ"
+  ],
+  "kun": [
+   "なか",
+   "うち",
+   "あた.る"
+  ],
+  "mean": [
+   "in",
+   "inside",
+   "middle",
+   "mean",
+   "center"
+  ],
+  "rank": 11
+ },
+ {
+  "k": "長",
+  "freq": 12,
+  "grade": 2,
+  "sc": 8,
+  "on": [
+   "チョウ"
+  ],
+  "kun": [
+   "なが.い",
+   "おさ"
+  ],
+  "mean": [
+   "long",
+   "leader",
+   "superior",
+   "senior"
+  ],
+  "rank": 12
+ },
+ {
+  "k": "出",
+  "freq": 13,
+  "grade": 1,
+  "sc": 5,
+  "on": [
+   "シュツ",
+   "スイ"
+  ],
+  "kun": [
+   "で.る",
+   "-で",
+   "だ.す",
+   "-だ.す",
+   "い.でる",
+   "い.だす"
+  ],
+  "mean": [
+   "exit",
+   "leave",
+   "go out",
+   "come out",
+   "put out",
+   "protrude"
+  ],
+  "rank": 13
+ },
+ {
+  "k": "三",
+  "freq": 14,
+  "grade": 1,
+  "sc": 3,
+  "on": [
+   "サン",
+   "ゾウ"
+  ],
+  "kun": [
+   "み",
+   "み.つ",
+   "みっ.つ"
+  ],
+  "mean": [
+   "three"
+  ],
+  "rank": 14
+ },
+ {
+  "k": "同",
+  "freq": 15,
+  "grade": 2,
+  "sc": 6,
+  "on": [
+   "ドウ"
+  ],
+  "kun": [
+   "おな.じ"
+  ],
+  "mean": [
+   "same",
+   "agree",
+   "equal"
+  ],
+  "rank": 15
+ },
+ {
+  "k": "時",
+  "freq": 16,
+  "grade": 2,
+  "sc": 10,
+  "on": [
+   "ジ"
+  ],
+  "kun": [
+   "とき",
+   "-どき"
+  ],
+  "mean": [
+   "time",
+   "hour"
+  ],
+  "rank": 16
+ },
+ {
+  "k": "事",
+  "freq": 18,
+  "grade": 3,
+  "sc": 8,
+  "on": [
+   "ジ",
+   "ズ"
+  ],
+  "kun": [
+   "こと",
+   "つか.う",
+   "つか.える"
+  ],
+  "mean": [
+   "matter",
+   "thing",
+   "fact",
+   "business",
+   "reason",
+   "possibly"
+  ],
+  "rank": 17
+ },
+ {
+  "k": "自",
+  "freq": 19,
+  "grade": 2,
+  "sc": 6,
+  "on": [
+   "ジ",
+   "シ"
+  ],
+  "kun": [
+   "みずか.ら",
+   "おの.ずから",
+   "おの.ずと"
+  ],
+  "mean": [
+   "oneself"
+  ],
+  "rank": 18
+ },
+ {
+  "k": "行",
+  "freq": 20,
+  "grade": 2,
+  "sc": 6,
+  "on": [
+   "コウ",
+   "ギョウ",
+   "アン"
+  ],
+  "kun": [
+   "い.く",
+   "ゆ.く",
+   "-ゆ.き",
+   "-ゆき",
+   "-い.き",
+   "-いき",
+   "おこな.う",
+   "おこ.なう"
+  ],
+  "mean": [
+   "going",
+   "journey",
+   "carry out",
+   "conduct",
+   "act",
+   "line",
+   "row",
+   "bank"
+  ],
+  "rank": 19
+ },
+ {
+  "k": "社",
+  "freq": 21,
+  "grade": 2,
+  "sc": 7,
+  "on": [
+   "シャ"
+  ],
+  "kun": [
+   "やしろ"
+  ],
+  "mean": [
+   "company",
+   "firm",
+   "office",
+   "association",
+   "shrine"
+  ],
+  "rank": 20
+ },
+ {
+  "k": "見",
+  "freq": 22,
+  "grade": 1,
+  "sc": 7,
+  "on": [
+   "ケン"
+  ],
+  "kun": [
+   "み.る",
+   "み.える",
+   "み.せる"
+  ],
+  "mean": [
+   "see",
+   "hopes",
+   "chances",
+   "idea",
+   "opinion",
+   "look at",
+   "visible"
+  ],
+  "rank": 21
+ },
+ {
+  "k": "月",
+  "freq": 23,
+  "grade": 1,
+  "sc": 4,
+  "on": [
+   "ゲツ",
+   "ガツ"
+  ],
+  "kun": [
+   "つき"
+  ],
+  "mean": [
+   "month",
+   "moon"
+  ],
+  "rank": 22
+ },
+ {
+  "k": "分",
+  "freq": 24,
+  "grade": 2,
+  "sc": 4,
+  "on": [
+   "ブン",
+   "フン",
+   "ブ"
+  ],
+  "kun": [
+   "わ.ける",
+   "わ.け",
+   "わ.かれる",
+   "わ.かる",
+   "わ.かつ"
+  ],
+  "mean": [
+   "part",
+   "minute of time",
+   "segment",
+   "share",
+   "degree",
+   "one's lot",
+   "duty",
+   "understand",
+   "know",
+   "rate",
+   "1%",
+   "chances",
+   "shaku/100"
+  ],
+  "rank": 23
+ },
+ {
+  "k": "後",
+  "freq": 26,
+  "grade": 2,
+  "sc": 9,
+  "on": [
+   "ゴ",
+   "コウ"
+  ],
+  "kun": [
+   "のち",
+   "うし.ろ",
+   "うしろ",
+   "あと",
+   "おく.れる"
+  ],
+  "mean": [
+   "behind",
+   "back",
+   "later"
+  ],
+  "rank": 24
+ },
+ {
+  "k": "前",
+  "freq": 27,
+  "grade": 2,
+  "sc": 9,
+  "on": [
+   "ゼン"
+  ],
+  "kun": [
+   "まえ",
+   "-まえ"
+  ],
+  "mean": [
+   "in front",
+   "before"
+  ],
+  "rank": 25
+ },
+ {
+  "k": "生",
+  "freq": 29,
+  "grade": 1,
+  "sc": 5,
+  "on": [
+   "セイ",
+   "ショウ"
+  ],
+  "kun": [
+   "い.きる",
+   "い.かす",
+   "い.ける",
+   "う.まれる",
+   "うま.れる",
+   "う.まれ",
+   "うまれ",
+   "う.む",
+   "お.う",
+   "は.える",
+   "は.やす",
+   "き",
+   "なま",
+   "なま-",
+   "な.る",
+   "な.す",
+   "む.す",
+   "-う"
+  ],
+  "mean": [
+   "life",
+   "genuine",
+   "birth"
+  ],
+  "rank": 26
+ },
+ {
+  "k": "五",
+  "freq": 31,
+  "grade": 1,
+  "sc": 4,
+  "on": [
+   "ゴ"
+  ],
+  "kun": [
+   "いつ",
+   "いつ.つ"
+  ],
+  "mean": [
+   "five"
+  ],
+  "rank": 27
+ },
+ {
+  "k": "発",
+  "freq": 32,
+  "grade": 3,
+  "sc": 9,
+  "on": [
+   "ハツ",
+   "ホツ"
+  ],
+  "kun": [
+   "た.つ",
+   "あば.く",
+   "おこ.る",
+   "つか.わす",
+   "はな.つ"
+  ],
+  "mean": [
+   "departure",
+   "discharge",
+   "publish",
+   "emit",
+   "start from",
+   "disclose",
+   "counter for gunshots"
+  ],
+  "rank": 28
+ },
+ {
+  "k": "間",
+  "freq": 33,
+  "grade": 2,
+  "sc": 12,
+  "on": [
+   "カン",
+   "ケン"
+  ],
+  "kun": [
+   "あいだ",
+   "ま",
+   "あい"
+  ],
+  "mean": [
+   "interval",
+   "space"
+  ],
+  "rank": 29
+ },
+ {
+  "k": "対",
+  "freq": 34,
+  "grade": 3,
+  "sc": 7,
+  "on": [
+   "タイ",
+   "ツイ"
+  ],
+  "kun": [
+   "あいて",
+   "こた.える",
+   "そろ.い",
+   "つれあ.い",
+   "なら.ぶ",
+   "むか.う"
+  ],
+  "mean": [
+   "vis-a-vis",
+   "opposite",
+   "even",
+   "equal",
+   "versus",
+   "anti-",
+   "compare"
+  ],
+  "rank": 30
+ },
+ {
+  "k": "上",
+  "freq": 35,
+  "grade": 1,
+  "sc": 3,
+  "on": [
+   "ジョウ",
+   "ショウ",
+   "シャン"
+  ],
+  "kun": [
+   "うえ",
+   "-うえ",
+   "うわ-",
+   "かみ",
+   "あ.げる",
+   "-あ.げる",
+   "あ.がる",
+   "-あ.がる",
+   "あ.がり",
+   "-あ.がり",
+   "のぼ.る",
+   "のぼ.り",
+   "のぼ.せる",
+   "のぼ.す",
+   "たてまつ.る"
+  ],
+  "mean": [
+   "above",
+   "up"
+  ],
+  "rank": 31
+ },
+ {
+  "k": "部",
+  "freq": 36,
+  "grade": 3,
+  "sc": 11,
+  "on": [
+   "ブ"
+  ],
+  "kun": [
+   "-べ"
+  ],
+  "mean": [
+   "section",
+   "bureau",
+   "dept",
+   "class",
+   "copy",
+   "part",
+   "portion",
+   "counter for copies of a newspaper or magazine"
+  ],
+  "rank": 32
+ },
+ {
+  "k": "東",
+  "freq": 37,
+  "grade": 2,
+  "sc": 8,
+  "on": [
+   "トウ"
+  ],
+  "kun": [
+   "ひがし"
+  ],
+  "mean": [
+   "east"
+  ],
+  "rank": 33
+ },
+ {
+  "k": "者",
+  "freq": 38,
+  "grade": 3,
+  "sc": 8,
+  "on": [
+   "シャ"
+  ],
+  "kun": [
+   "もの"
+  ],
+  "mean": [
+   "someone",
+   "person"
+  ],
+  "rank": 34
+ },
+ {
+  "k": "地",
+  "freq": 40,
+  "grade": 2,
+  "sc": 6,
+  "on": [
+   "チ",
+   "ジ"
+  ],
+  "kun": [],
+  "mean": [
+   "ground",
+   "earth"
+  ],
+  "rank": 35
+ },
+ {
+  "k": "合",
+  "freq": 41,
+  "grade": 2,
+  "sc": 6,
+  "on": [
+   "ゴウ",
+   "ガッ",
+   "カッ"
+  ],
+  "kun": [
+   "あ.う",
+   "-あ.う",
+   "あ.い",
+   "あい-",
+   "-あ.い",
+   "-あい",
+   "あ.わす",
+   "あ.わせる",
+   "-あ.わせる"
+  ],
+  "mean": [
+   "fit",
+   "suit",
+   "join",
+   "0.1"
+  ],
+  "rank": 36
+ },
+ {
+  "k": "市",
+  "freq": 42,
+  "grade": 2,
+  "sc": 5,
+  "on": [
+   "シ"
+  ],
+  "kun": [
+   "いち"
+  ],
+  "mean": [
+   "market",
+   "city",
+   "town"
+  ],
+  "rank": 37
+ },
+ {
+  "k": "業",
+  "freq": 43,
+  "grade": 3,
+  "sc": 13,
+  "on": [
+   "ギョウ",
+   "ゴウ"
+  ],
+  "kun": [
+   "わざ"
+  ],
+  "mean": [
+   "business",
+   "vocation",
+   "arts",
+   "performance"
+  ],
+  "rank": 38
+ },
+ {
+  "k": "内",
+  "freq": 44,
+  "grade": 2,
+  "sc": 4,
+  "on": [
+   "ナイ",
+   "ダイ"
+  ],
+  "kun": [
+   "うち"
+  ],
+  "mean": [
+   "inside",
+   "within",
+   "between",
+   "among",
+   "house",
+   "home"
+  ],
+  "rank": 39
+ },
+ {
+  "k": "相",
+  "freq": 45,
+  "grade": 3,
+  "sc": 9,
+  "on": [
+   "ソウ",
+   "ショウ"
+  ],
+  "kun": [
+   "あい-"
+  ],
+  "mean": [
+   "inter-",
+   "mutual",
+   "together",
+   "each other",
+   "minister of state",
+   "councillor",
+   "aspect",
+   "phase",
+   "physiognomy"
+  ],
+  "rank": 40
+ },
+ {
+  "k": "方",
+  "freq": 46,
+  "grade": 2,
+  "sc": 4,
+  "on": [
+   "ホウ"
+  ],
+  "kun": [
+   "かた",
+   "-かた",
+   "-がた"
+  ],
+  "mean": [
+   "direction",
+   "person",
+   "alternative"
+  ],
+  "rank": 41
+ },
+ {
+  "k": "四",
+  "freq": 47,
+  "grade": 1,
+  "sc": 5,
+  "on": [
+   "シ"
+  ],
+  "kun": [
+   "よ",
+   "よ.つ",
+   "よっ.つ",
+   "よん"
+  ],
+  "mean": [
+   "four"
+  ],
+  "rank": 42
+ },
+ {
+  "k": "定",
+  "freq": 48,
+  "grade": 3,
+  "sc": 8,
+  "on": [
+   "テイ",
+   "ジョウ"
+  ],
+  "kun": [
+   "さだ.める",
+   "さだ.まる",
+   "さだ.か"
+  ],
+  "mean": [
+   "determine",
+   "fix",
+   "establish",
+   "decide"
+  ],
+  "rank": 43
+ },
+ {
+  "k": "今",
+  "freq": 49,
+  "grade": 2,
+  "sc": 4,
+  "on": [
+   "コン",
+   "キン"
+  ],
+  "kun": [
+   "いま"
+  ],
+  "mean": [
+   "now"
+  ],
+  "rank": 44
+ },
+ {
+  "k": "回",
+  "freq": 50,
+  "grade": 2,
+  "sc": 6,
+  "on": [
+   "カイ",
+   "エ"
+  ],
+  "kun": [
+   "まわ.る",
+   "-まわ.る",
+   "-まわ.り",
+   "まわ.す",
+   "-まわ.す",
+   "まわ.し-",
+   "-まわ.し",
+   "もとお.る",
+   "か.える"
+  ],
+  "mean": [
+   "-times",
+   "round",
+   "game",
+   "revolve",
+   "counter for occurrences"
+  ],
+  "rank": 45
+ },
+ {
+  "k": "新",
+  "freq": 51,
+  "grade": 2,
+  "sc": 13,
+  "on": [
+   "シン"
+  ],
+  "kun": [
+   "あたら.しい",
+   "あら.た",
+   "あら-",
+   "にい-"
+  ],
+  "mean": [
+   "new"
+  ],
+  "rank": 46
+ },
+ {
+  "k": "場",
+  "freq": 52,
+  "grade": 2,
+  "sc": 12,
+  "on": [
+   "ジョウ",
+   "チョウ"
+  ],
+  "kun": [
+   "ば"
+  ],
+  "mean": [
+   "location",
+   "place"
+  ],
+  "rank": 47
+ },
+ {
+  "k": "金",
+  "freq": 53,
+  "grade": 1,
+  "sc": 8,
+  "on": [
+   "キン",
+   "コン",
+   "ゴン"
+  ],
+  "kun": [
+   "かね",
+   "かな-",
+   "-がね"
+  ],
+  "mean": [
+   "gold"
+  ],
+  "rank": 48
+ },
+ {
+  "k": "員",
+  "freq": 54,
+  "grade": 3,
+  "sc": 10,
+  "on": [
+   "イン"
+  ],
+  "kun": [],
+  "mean": [
+   "employee",
+   "member",
+   "number",
+   "the one in charge"
+  ],
+  "rank": 49
+ },
+ {
+  "k": "九",
+  "freq": 55,
+  "grade": 1,
+  "sc": 2,
+  "on": [
+   "キュウ",
+   "ク"
+  ],
+  "kun": [
+   "ここの",
+   "ここの.つ"
+  ],
+  "mean": [
+   "nine"
+  ],
+  "rank": 50
+ },
+ {
+  "k": "入",
+  "freq": 56,
+  "grade": 1,
+  "sc": 2,
+  "on": [
+   "ニュウ",
+   "ジュ"
+  ],
+  "kun": [
+   "い.る",
+   "-い.る",
+   "-い.り",
+   "い.れる",
+   "-い.れ",
+   "はい.る"
+  ],
+  "mean": [
+   "enter",
+   "insert"
+  ],
+  "rank": 51
+ },
+ {
+  "k": "立",
+  "freq": 58,
+  "grade": 1,
+  "sc": 5,
+  "on": [
+   "リツ",
+   "リュウ",
+   "リットル"
+  ],
+  "kun": [
+   "た.つ",
+   "-た.つ",
+   "た.ち-",
+   "た.てる",
+   "-た.てる",
+   "た.て-",
+   "たて-",
+   "-た.て",
+   "-だ.て",
+   "-だ.てる"
+  ],
+  "mean": [
+   "stand up",
+   "rise",
+   "set up",
+   "erect"
+  ],
+  "rank": 52
+ },
+ {
+  "k": "開",
+  "freq": 59,
+  "grade": 3,
+  "sc": 12,
+  "on": [
+   "カイ"
+  ],
+  "kun": [
+   "ひら.く",
+   "ひら.き",
+   "-びら.き",
+   "ひら.ける",
+   "あ.く",
+   "あ.ける"
+  ],
+  "mean": [
+   "open",
+   "unfold",
+   "unseal"
+  ],
+  "rank": 53
+ },
+ {
+  "k": "手",
+  "freq": 60,
+  "grade": 1,
+  "sc": 4,
+  "on": [
+   "シュ",
+   "ズ"
+  ],
+  "kun": [
+   "て",
+   "て-",
+   "-て",
+   "た-"
+  ],
+  "mean": [
+   "hand"
+  ],
+  "rank": 54
+ },
+ {
+  "k": "米",
+  "freq": 61,
+  "grade": 2,
+  "sc": 6,
+  "on": [
+   "ベイ",
+   "マイ",
+   "メエトル"
+  ],
+  "kun": [
+   "こめ",
+   "よね"
+  ],
+  "mean": [
+   "rice",
+   "USA",
+   "metre"
+  ],
+  "rank": 55
+ },
+ {
+  "k": "力",
+  "freq": 62,
+  "grade": 1,
+  "sc": 2,
+  "on": [
+   "リョク",
+   "リキ",
+   "リイ"
+  ],
+  "kun": [
+   "ちから"
+  ],
+  "mean": [
+   "power",
+   "strength",
+   "strong",
+   "strain",
+   "bear up",
+   "exert"
+  ],
+  "rank": 56
+ },
+ {
+  "k": "学",
+  "freq": 63,
+  "grade": 1,
+  "sc": 8,
+  "on": [
+   "ガク"
+  ],
+  "kun": [
+   "まな.ぶ"
+  ],
+  "mean": [
+   "study",
+   "learning",
+   "science"
+  ],
+  "rank": 57
+ },
+ {
+  "k": "問",
+  "freq": 64,
+  "grade": 3,
+  "sc": 11,
+  "on": [
+   "モン"
+  ],
+  "kun": [
+   "と.う",
+   "と.い",
+   "とん"
+  ],
+  "mean": [
+   "question",
+   "ask",
+   "problem"
+  ],
+  "rank": 58
+ },
+ {
+  "k": "高",
+  "freq": 65,
+  "grade": 2,
+  "sc": 10,
+  "on": [
+   "コウ"
+  ],
+  "kun": [
+   "たか.い",
+   "たか",
+   "-だか",
+   "たか.まる",
+   "たか.める"
+  ],
+  "mean": [
+   "tall",
+   "high",
+   "expensive"
+  ],
+  "rank": 59
+ },
+ {
+  "k": "代",
+  "freq": 66,
+  "grade": 3,
+  "sc": 5,
+  "on": [
+   "ダイ",
+   "タイ"
+  ],
+  "kun": [
+   "か.わる",
+   "かわ.る",
+   "かわ.り",
+   "か.わり",
+   "-がわ.り",
+   "-が.わり",
+   "か.える",
+   "よ",
+   "しろ"
+  ],
+  "mean": [
+   "substitute",
+   "change",
+   "convert",
+   "replace",
+   "period",
+   "age",
+   "counter for decades of ages, eras, etc.",
+   "generation",
+   "charge",
+   "rate",
+   "fee"
+  ],
+  "rank": 60
+ },
+ {
+  "k": "明",
+  "freq": 67,
+  "grade": 2,
+  "sc": 8,
+  "on": [
+   "メイ",
+   "ミョウ",
+   "ミン"
+  ],
+  "kun": [
+   "あ.かり",
+   "あか.るい",
+   "あか.るむ",
+   "あか.らむ",
+   "あき.らか",
+   "あ.ける",
+   "-あ.け",
+   "あ.く",
+   "あ.くる",
+   "あ.かす"
+  ],
+  "mean": [
+   "bright",
+   "light"
+  ],
+  "rank": 61
+ },
+ {
+  "k": "実",
+  "freq": 68,
+  "grade": 3,
+  "sc": 8,
+  "on": [
+   "ジツ",
+   "シツ"
+  ],
+  "kun": [
+   "み",
+   "みの.る",
+   "まこと",
+   "みの",
+   "みち.る"
+  ],
+  "mean": [
+   "reality",
+   "truth",
+   "seed",
+   "fruit",
+   "nut"
+  ],
+  "rank": 62
+ },
+ {
+  "k": "円",
+  "freq": 69,
+  "grade": 1,
+  "sc": 4,
+  "on": [
+   "エン"
+  ],
+  "kun": [
+   "まる.い",
+   "まる",
+   "まど",
+   "まど.か",
+   "まろ.やか"
+  ],
+  "mean": [
+   "circle",
+   "yen",
+   "round"
+  ],
+  "rank": 63
+ },
+ {
+  "k": "決",
+  "freq": 71,
+  "grade": 3,
+  "sc": 7,
+  "on": [
+   "ケツ"
+  ],
+  "kun": [
+   "き.める",
+   "-ぎ.め",
+   "き.まる",
+   "さ.く"
+  ],
+  "mean": [
+   "decide",
+   "fix",
+   "agree upon",
+   "appoint"
+  ],
+  "rank": 64
+ },
+ {
+  "k": "子",
+  "freq": 72,
+  "grade": 1,
+  "sc": 3,
+  "on": [
+   "シ",
+   "ス",
+   "ツ"
+  ],
+  "kun": [
+   "こ",
+   "-こ",
+   "ね"
+  ],
+  "mean": [
+   "child",
+   "sign of the rat",
+   "11PM-1AM",
+   "first sign of Chinese zodiac"
+  ],
+  "rank": 65
+ },
+ {
+  "k": "動",
+  "freq": 73,
+  "grade": 3,
+  "sc": 11,
+  "on": [
+   "ドウ"
+  ],
+  "kun": [
+   "うご.く",
+   "うご.かす"
+  ],
+  "mean": [
+   "move",
+   "motion",
+   "change",
+   "confusion",
+   "shift",
+   "shake"
+  ],
+  "rank": 66
+ },
+ {
+  "k": "京",
+  "freq": 74,
+  "grade": 2,
+  "sc": 8,
+  "on": [
+   "キョウ",
+   "ケイ",
+   "キン"
+  ],
+  "kun": [
+   "みやこ"
+  ],
+  "mean": [
+   "capital",
+   "10**16"
+  ],
+  "rank": 67
+ },
+ {
+  "k": "全",
+  "freq": 75,
+  "grade": 3,
+  "sc": 6,
+  "on": [
+   "ゼン"
+  ],
+  "kun": [
+   "まった.く",
+   "すべ.て"
+  ],
+  "mean": [
+   "whole",
+   "entire",
+   "all",
+   "complete",
+   "fulfill"
+  ],
+  "rank": 68
+ },
+ {
+  "k": "目",
+  "freq": 76,
+  "grade": 1,
+  "sc": 5,
+  "on": [
+   "モク",
+   "ボク"
+  ],
+  "kun": [
+   "め",
+   "-め",
+   "ま-"
+  ],
+  "mean": [
+   "eye",
+   "class",
+   "look",
+   "insight",
+   "experience",
+   "care",
+   "favor"
+  ],
+  "rank": 69
+ },
+ {
+  "k": "表",
+  "freq": 77,
+  "grade": 3,
+  "sc": 8,
+  "on": [
+   "ヒョウ"
+  ],
+  "kun": [
+   "おもて",
+   "-おもて",
+   "あらわ.す",
+   "あらわ.れる",
+   "あら.わす"
+  ],
+  "mean": [
+   "surface",
+   "table",
+   "chart",
+   "diagram"
+  ],
+  "rank": 70
+ },
+ {
+  "k": "通",
+  "freq": 80,
+  "grade": 2,
+  "sc": 10,
+  "on": [
+   "ツウ",
+   "ツ"
+  ],
+  "kun": [
+   "とお.る",
+   "とお.り",
+   "-とお.り",
+   "-どお.り",
+   "とお.す",
+   "とお.し",
+   "-どお.し",
+   "かよ.う"
+  ],
+  "mean": [
+   "traffic",
+   "pass through",
+   "avenue",
+   "commute",
+   "counter for letters, notes, documents, etc."
+  ],
+  "rank": 71
+ },
+ {
+  "k": "外",
+  "freq": 81,
+  "grade": 2,
+  "sc": 5,
+  "on": [
+   "ガイ",
+   "ゲ"
+  ],
+  "kun": [
+   "そと",
+   "ほか",
+   "はず.す",
+   "はず.れる",
+   "と-"
+  ],
+  "mean": [
+   "outside"
+  ],
+  "rank": 72
+ },
+ {
+  "k": "言",
+  "freq": 83,
+  "grade": 2,
+  "sc": 7,
+  "on": [
+   "ゲン",
+   "ゴン"
+  ],
+  "kun": [
+   "い.う",
+   "こと"
+  ],
+  "mean": [
+   "say",
+   "word"
+  ],
+  "rank": 73
+ },
+ {
+  "k": "理",
+  "freq": 86,
+  "grade": 2,
+  "sc": 11,
+  "on": [
+   "リ"
+  ],
+  "kun": [
+   "ことわり"
+  ],
+  "mean": [
+   "logic",
+   "arrangement",
+   "reason",
+   "justice",
+   "truth"
+  ],
+  "rank": 74
+ },
+ {
+  "k": "調",
+  "freq": 87,
+  "grade": 3,
+  "sc": 15,
+  "on": [
+   "チョウ"
+  ],
+  "kun": [
+   "しら.べる",
+   "しら.べ",
+   "ととの.う",
+   "ととの.える"
+  ],
+  "mean": [
+   "tune",
+   "tone",
+   "meter",
+   "key (music)",
+   "writing style",
+   "prepare",
+   "exorcise",
+   "investigate",
+   "harmonize",
+   "mediate"
+  ],
+  "rank": 75
+ },
+ {
+  "k": "体",
+  "freq": 88,
+  "grade": 2,
+  "sc": 7,
+  "on": [
+   "タイ",
+   "テイ"
+  ],
+  "kun": [
+   "からだ",
+   "かたち"
+  ],
+  "mean": [
+   "body",
+   "substance",
+   "object",
+   "reality",
+   "counter for images"
+  ],
+  "rank": 76
+ },
+ {
+  "k": "化",
+  "freq": 89,
+  "grade": 3,
+  "sc": 4,
+  "on": [
+   "カ",
+   "ケ"
+  ],
+  "kun": [
+   "ば.ける",
+   "ば.かす",
+   "ふ.ける",
+   "け.する"
+  ],
+  "mean": [
+   "change",
+   "take the form of",
+   "influence",
+   "enchant",
+   "delude",
+   "-ization"
+  ],
+  "rank": 77
+ },
+ {
+  "k": "田",
+  "freq": 90,
+  "grade": 1,
+  "sc": 5,
+  "on": [
+   "デン"
+  ],
+  "kun": [
+   "た"
+  ],
+  "mean": [
+   "rice field",
+   "rice paddy"
+  ],
+  "rank": 78
+ },
+ {
+  "k": "当",
+  "freq": 91,
+  "grade": 2,
+  "sc": 6,
+  "on": [
+   "トウ"
+  ],
+  "kun": [
+   "あ.たる",
+   "あ.たり",
+   "あ.てる",
+   "あ.て",
+   "まさ.に",
+   "まさ.にべし"
+  ],
+  "mean": [
+   "hit",
+   "right",
+   "appropriate",
+   "himself"
+  ],
+  "rank": 79
+ },
+ {
+  "k": "八",
+  "freq": 92,
+  "grade": 1,
+  "sc": 2,
+  "on": [
+   "ハチ",
+   "ハツ"
+  ],
+  "kun": [
+   "や",
+   "や.つ",
+   "やっ.つ",
+   "よう"
+  ],
+  "mean": [
+   "eight",
+   "eight radical (no. 12)"
+  ],
+  "rank": 80
+ },
+ {
+  "k": "六",
+  "freq": 93,
+  "grade": 1,
+  "sc": 4,
+  "on": [
+   "ロク",
+   "リク"
+  ],
+  "kun": [
+   "む",
+   "む.つ",
+   "むっ.つ",
+   "むい"
+  ],
+  "mean": [
+   "six"
+  ],
+  "rank": 81
+ },
+ {
+  "k": "主",
+  "freq": 95,
+  "grade": 3,
+  "sc": 5,
+  "on": [
+   "シュ",
+   "ス",
+   "シュウ"
+  ],
+  "kun": [
+   "ぬし",
+   "おも",
+   "あるじ"
+  ],
+  "mean": [
+   "lord",
+   "chief",
+   "master",
+   "main thing",
+   "principal"
+  ],
+  "rank": 82
+ },
+ {
+  "k": "題",
+  "freq": 96,
+  "grade": 3,
+  "sc": 18,
+  "on": [
+   "ダイ"
+  ],
+  "kun": [],
+  "mean": [
+   "topic",
+   "subject"
+  ],
+  "rank": 83
+ },
+ {
+  "k": "下",
+  "freq": 97,
+  "grade": 1,
+  "sc": 3,
+  "on": [
+   "カ",
+   "ゲ"
+  ],
+  "kun": [
+   "した",
+   "しも",
+   "もと",
+   "さ.げる",
+   "さ.がる",
+   "くだ.る",
+   "くだ.り",
+   "くだ.す",
+   "-くだ.す",
+   "くだ.さる",
+   "お.ろす",
+   "お.りる"
+  ],
+  "mean": [
+   "below",
+   "down",
+   "descend",
+   "give",
+   "low",
+   "inferior"
+  ],
+  "rank": 84
+ },
+ {
+  "k": "首",
+  "freq": 98,
+  "grade": 2,
+  "sc": 9,
+  "on": [
+   "シュ"
+  ],
+  "kun": [
+   "くび"
+  ],
+  "mean": [
+   "neck",
+   "counter for songs and poems"
+  ],
+  "rank": 85
+ },
+ {
+  "k": "意",
+  "freq": 99,
+  "grade": 3,
+  "sc": 13,
+  "on": [
+   "イ"
+  ],
+  "kun": [],
+  "mean": [
+   "idea",
+   "mind",
+   "heart",
+   "taste",
+   "thought",
+   "desire",
+   "care",
+   "liking"
+  ],
+  "rank": 86
+ },
+ {
+  "k": "来",
+  "freq": 102,
+  "grade": 2,
+  "sc": 7,
+  "on": [
+   "ライ",
+   "タイ"
+  ],
+  "kun": [
+   "く.る",
+   "きた.る",
+   "きた.す",
+   "き.たす",
+   "き.たる",
+   "き",
+   "こ"
+  ],
+  "mean": [
+   "come",
+   "due",
+   "next",
+   "cause",
+   "become"
+  ],
+  "rank": 87
+ },
+ {
+  "k": "作",
+  "freq": 103,
+  "grade": 2,
+  "sc": 7,
+  "on": [
+   "サク",
+   "サ"
+  ],
+  "kun": [
+   "つく.る",
+   "つく.り",
+   "-づく.り"
+  ],
+  "mean": [
+   "make",
+   "production",
+   "prepare",
+   "build"
+  ],
+  "rank": 88
+ },
+ {
+  "k": "用",
+  "freq": 107,
+  "grade": 2,
+  "sc": 5,
+  "on": [
+   "ヨウ"
+  ],
+  "kun": [
+   "もち.いる"
+  ],
+  "mean": [
+   "utilize",
+   "business",
+   "service",
+   "use",
+   "employ"
+  ],
+  "rank": 89
+ },
+ {
+  "k": "度",
+  "freq": 110,
+  "grade": 3,
+  "sc": 9,
+  "on": [
+   "ド",
+   "ト",
+   "タク"
+  ],
+  "kun": [
+   "たび",
+   "-た.い"
+  ],
+  "mean": [
+   "degrees",
+   "occurrence",
+   "time",
+   "counter for occurrences",
+   "consider",
+   "attitude"
+  ],
+  "rank": 90
+ },
+ {
+  "k": "強",
+  "freq": 112,
+  "grade": 2,
+  "sc": 11,
+  "on": [
+   "キョウ",
+   "ゴウ"
+  ],
+  "kun": [
+   "つよ.い",
+   "つよ.まる",
+   "つよ.める",
+   "し.いる",
+   "こわ.い"
+  ],
+  "mean": [
+   "strong"
+  ],
+  "rank": 91
+ },
+ {
+  "k": "気",
+  "freq": 113,
+  "grade": 1,
+  "sc": 6,
+  "on": [
+   "キ",
+   "ケ"
+  ],
+  "kun": [
+   "いき",
+   "き"
+  ],
+  "mean": [
+   "spirit",
+   "mind",
+   "air",
+   "atmosphere",
+   "mood"
+  ],
+  "rank": 92
+ },
+ {
+  "k": "小",
+  "freq": 114,
+  "grade": 1,
+  "sc": 3,
+  "on": [
+   "ショウ"
+  ],
+  "kun": [
+   "ちい.さい",
+   "こ-",
+   "お-",
+   "さ-"
+  ],
+  "mean": [
+   "little",
+   "small"
+  ],
+  "rank": 93
+ },
+ {
+  "k": "七",
+  "freq": 115,
+  "grade": 1,
+  "sc": 2,
+  "on": [
+   "シチ"
+  ],
+  "kun": [
+   "なな",
+   "なな.つ",
+   "なの"
+  ],
+  "mean": [
+   "seven"
+  ],
+  "rank": 94
+ },
+ {
+  "k": "期",
+  "freq": 117,
+  "grade": 3,
+  "sc": 12,
+  "on": [
+   "キ",
+   "ゴ"
+  ],
+  "kun": [],
+  "mean": [
+   "period",
+   "time",
+   "date",
+   "term"
+  ],
+  "rank": 95
+ },
+ {
+  "k": "公",
+  "freq": 118,
+  "grade": 2,
+  "sc": 4,
+  "on": [
+   "コウ",
+   "ク"
+  ],
+  "kun": [
+   "おおやけ"
+  ],
+  "mean": [
+   "public",
+   "prince",
+   "official",
+   "governmental"
+  ],
+  "rank": 96
+ },
+ {
+  "k": "持",
+  "freq": 119,
+  "grade": 3,
+  "sc": 9,
+  "on": [
+   "ジ"
+  ],
+  "kun": [
+   "も.つ",
+   "-も.ち",
+   "も.てる"
+  ],
+  "mean": [
+   "hold",
+   "have"
+  ],
+  "rank": 97
+ },
+ {
+  "k": "野",
+  "freq": 120,
+  "grade": 2,
+  "sc": 11,
+  "on": [
+   "ヤ",
+   "ショ"
+  ],
+  "kun": [
+   "の",
+   "の-"
+  ],
+  "mean": [
+   "plains",
+   "field",
+   "rustic",
+   "civilian life"
+  ],
+  "rank": 98
+ },
+ {
+  "k": "取",
+  "freq": 122,
+  "grade": 3,
+  "sc": 8,
+  "on": [
+   "シュ"
+  ],
+  "kun": [
+   "と.る",
+   "と.り",
+   "と.り-",
+   "とり",
+   "-ど.り"
+  ],
+  "mean": [
+   "take",
+   "fetch",
+   "take up"
+  ],
+  "rank": 99
+ },
+ {
+  "k": "都",
+  "freq": 123,
+  "grade": 3,
+  "sc": 11,
+  "on": [
+   "ト",
+   "ツ"
+  ],
+  "kun": [
+   "みやこ"
+  ],
+  "mean": [
+   "metropolis",
+   "capital",
+   "all",
+   "everything"
+  ],
+  "rank": 100
+ },
+ {
+  "k": "和",
+  "freq": 124,
+  "grade": 3,
+  "sc": 8,
+  "on": [
+   "ワ",
+   "オ",
+   "カ"
+  ],
+  "kun": [
+   "やわ.らぐ",
+   "やわ.らげる",
+   "なご.む",
+   "なご.やか",
+   "あ.える"
+  ],
+  "mean": [
+   "harmony",
+   "Japanese style",
+   "peace",
+   "soften",
+   "Japan"
+  ],
+  "rank": 101
+ },
+ {
+  "k": "平",
+  "freq": 128,
+  "grade": 3,
+  "sc": 5,
+  "on": [
+   "ヘイ",
+   "ビョウ",
+   "ヒョウ"
+  ],
+  "kun": [
+   "たい.ら",
+   "たい.らげる",
+   "ひら"
+  ],
+  "mean": [
+   "even",
+   "flat",
+   "peace"
+  ],
+  "rank": 102
+ },
+ {
+  "k": "山",
+  "freq": 131,
+  "grade": 1,
+  "sc": 3,
+  "on": [
+   "サン",
+   "セン"
+  ],
+  "kun": [
+   "やま"
+  ],
+  "mean": [
+   "mountain"
+  ],
+  "rank": 103
+ },
+ {
+  "k": "思",
+  "freq": 132,
+  "grade": 2,
+  "sc": 9,
+  "on": [
+   "シ"
+  ],
+  "kun": [
+   "おも.う",
+   "おもえら.く",
+   "おぼ.す"
+  ],
+  "mean": [
+   "think"
+  ],
+  "rank": 104
+ },
+ {
+  "k": "家",
+  "freq": 133,
+  "grade": 2,
+  "sc": 10,
+  "on": [
+   "カ",
+   "ケ"
+  ],
+  "kun": [
+   "いえ",
+   "や",
+   "うち"
+  ],
+  "mean": [
+   "house",
+   "home",
+   "family",
+   "professional",
+   "expert",
+   "performer"
+  ],
+  "rank": 105
+ },
+ {
+  "k": "話",
+  "freq": 134,
+  "grade": 2,
+  "sc": 13,
+  "on": [
+   "ワ"
+  ],
+  "kun": [
+   "はな.す",
+   "はなし"
+  ],
+  "mean": [
+   "tale",
+   "talk"
+  ],
+  "rank": 106
+ },
+ {
+  "k": "世",
+  "freq": 135,
+  "grade": 3,
+  "sc": 5,
+  "on": [
+   "セイ",
+   "セ",
+   "ソウ"
+  ],
+  "kun": [
+   "よ"
+  ],
+  "mean": [
+   "generation",
+   "world",
+   "society",
+   "public"
+  ],
+  "rank": 107
+ },
+ {
+  "k": "受",
+  "freq": 136,
+  "grade": 3,
+  "sc": 8,
+  "on": [
+   "ジュ"
+  ],
+  "kun": [
+   "う.ける",
+   "-う.け",
+   "う.かる"
+  ],
+  "mean": [
+   "accept",
+   "undergo",
+   "answer (phone)",
+   "take",
+   "get",
+   "catch",
+   "receive"
+  ],
+  "rank": 108
+ },
+ {
+  "k": "区",
+  "freq": 137,
+  "grade": 3,
+  "sc": 4,
+  "on": [
+   "ク",
+   "オウ",
+   "コウ"
+  ],
+  "kun": [],
+  "mean": [
+   "ward",
+   "district"
+  ],
+  "rank": 109
+ },
+ {
+  "k": "多",
+  "freq": 139,
+  "grade": 2,
+  "sc": 6,
+  "on": [
+   "タ"
+  ],
+  "kun": [
+   "おお.い",
+   "まさ.に",
+   "まさ.る"
+  ],
+  "mean": [
+   "many",
+   "frequent",
+   "much"
+  ],
+  "rank": 110
+ },
+ {
+  "k": "県",
+  "freq": 140,
+  "grade": 3,
+  "sc": 9,
+  "on": [
+   "ケン"
+  ],
+  "kun": [
+   "か.ける"
+  ],
+  "mean": [
+   "prefecture"
+  ],
+  "rank": 111
+ },
+ {
+  "k": "進",
+  "freq": 142,
+  "grade": 3,
+  "sc": 11,
+  "on": [
+   "シン"
+  ],
+  "kun": [
+   "すす.む",
+   "すす.める"
+  ],
+  "mean": [
+   "advance",
+   "proceed",
+   "progress",
+   "promote"
+  ],
+  "rank": 112
+ },
+ {
+  "k": "正",
+  "freq": 143,
+  "grade": 1,
+  "sc": 5,
+  "on": [
+   "セイ",
+   "ショウ"
+  ],
+  "kun": [
+   "ただ.しい",
+   "ただ.す",
+   "まさ",
+   "まさ.に"
+  ],
+  "mean": [
+   "correct",
+   "justice",
+   "righteous",
+   "10**40"
+  ],
+  "rank": 113
+ },
+ {
+  "k": "安",
+  "freq": 144,
+  "grade": 3,
+  "sc": 6,
+  "on": [
+   "アン"
+  ],
+  "kun": [
+   "やす.い",
+   "やす.まる",
+   "やす",
+   "やす.らか"
+  ],
+  "mean": [
+   "relax",
+   "cheap",
+   "low",
+   "quiet",
+   "rested",
+   "contented",
+   "peaceful"
+  ],
+  "rank": 114
+ },
+ {
+  "k": "数",
+  "freq": 148,
+  "grade": 2,
+  "sc": 13,
+  "on": [
+   "スウ",
+   "ス",
+   "サク",
+   "ソク",
+   "シュ"
+  ],
+  "kun": [
+   "かず",
+   "かぞ.える",
+   "しばしば",
+   "せ.める",
+   "わずらわ.しい"
+  ],
+  "mean": [
+   "number",
+   "strength",
+   "fate",
+   "law",
+   "figures"
+  ],
+  "rank": 115
+ },
+ {
+  "k": "記",
+  "freq": 149,
+  "grade": 2,
+  "sc": 10,
+  "on": [
+   "キ"
+  ],
+  "kun": [
+   "しる.す"
+  ],
+  "mean": [
+   "scribe",
+   "account",
+   "narrative"
+  ],
+  "rank": 116
+ },
+ {
+  "k": "院",
+  "freq": 150,
+  "grade": 3,
+  "sc": 10,
+  "on": [
+   "イン"
+  ],
+  "kun": [],
+  "mean": [
+   "Inst.",
+   "institution",
+   "temple",
+   "mansion",
+   "school"
+  ],
+  "rank": 117
+ },
+ {
+  "k": "女",
+  "freq": 151,
+  "grade": 1,
+  "sc": 3,
+  "on": [
+   "ジョ",
+   "ニョ",
+   "ニョウ"
+  ],
+  "kun": [
+   "おんな",
+   "め"
+  ],
+  "mean": [
+   "woman",
+   "female"
+  ],
+  "rank": 118
+ },
+ {
+  "k": "北",
+  "freq": 153,
+  "grade": 2,
+  "sc": 5,
+  "on": [
+   "ホク"
+  ],
+  "kun": [
+   "きた"
+  ],
+  "mean": [
+   "north"
+  ],
+  "rank": 119
+ },
+ {
+  "k": "午",
+  "freq": 154,
+  "grade": 2,
+  "sc": 4,
+  "on": [
+   "ゴ"
+  ],
+  "kun": [
+   "うま"
+  ],
+  "mean": [
+   "noon",
+   "sign of the horse",
+   "11AM-1PM",
+   "seventh sign of Chinese zodiac"
+  ],
+  "rank": 120
+ },
+ {
+  "k": "指",
+  "freq": 155,
+  "grade": 3,
+  "sc": 9,
+  "on": [
+   "シ"
+  ],
+  "kun": [
+   "ゆび",
+   "さ.す",
+   "-さ.し"
+  ],
+  "mean": [
+   "finger",
+   "point to",
+   "indicate",
+   "put into",
+   "play (chess)",
+   "measure (ruler)"
+  ],
+  "rank": 121
+ },
+ {
+  "k": "心",
+  "freq": 157,
+  "grade": 2,
+  "sc": 4,
+  "on": [
+   "シン"
+  ],
+  "kun": [
+   "こころ",
+   "-ごころ"
+  ],
+  "mean": [
+   "heart",
+   "mind",
+   "spirit",
+   "heart radical (no. 61)"
+  ],
+  "rank": 122
+ },
+ {
+  "k": "界",
+  "freq": 158,
+  "grade": 3,
+  "sc": 9,
+  "on": [
+   "カイ"
+  ],
+  "kun": [],
+  "mean": [
+   "world",
+   "boundary"
+  ],
+  "rank": 123
+ },
+ {
+  "k": "第",
+  "freq": 160,
+  "grade": 3,
+  "sc": 11,
+  "on": [
+   "ダイ",
+   "テイ"
+  ],
+  "kun": [],
+  "mean": [
+   "No.",
+   "residence"
+  ],
+  "rank": 124
+ },
+ {
+  "k": "百",
+  "freq": 163,
+  "grade": 1,
+  "sc": 6,
+  "on": [
+   "ヒャク",
+   "ビャク"
+  ],
+  "kun": [
+   "もも"
+  ],
+  "mean": [
+   "hundred"
+  ],
+  "rank": 125
+ },
+ {
+  "k": "点",
+  "freq": 165,
+  "grade": 2,
+  "sc": 9,
+  "on": [
+   "テン"
+  ],
+  "kun": [
+   "つ.ける",
+   "つ.く",
+   "た.てる",
+   "さ.す",
+   "とぼ.す",
+   "とも.す",
+   "ぼち"
+  ],
+  "mean": [
+   "spot",
+   "point",
+   "mark",
+   "speck",
+   "decimal point"
+  ],
+  "rank": 126
+ },
+ {
+  "k": "教",
+  "freq": 166,
+  "grade": 2,
+  "sc": 11,
+  "on": [
+   "キョウ"
+  ],
+  "kun": [
+   "おし.える",
+   "おそ.わる"
+  ],
+  "mean": [
+   "teach",
+   "faith",
+   "doctrine"
+  ],
+  "rank": 127
+ },
+ {
+  "k": "書",
+  "freq": 169,
+  "grade": 2,
+  "sc": 10,
+  "on": [
+   "ショ"
+  ],
+  "kun": [
+   "か.く",
+   "-が.き",
+   "-がき"
+  ],
+  "mean": [
+   "write"
+  ],
+  "rank": 128
+ },
+ {
+  "k": "活",
+  "freq": 171,
+  "grade": 2,
+  "sc": 9,
+  "on": [
+   "カツ"
+  ],
+  "kun": [
+   "い.きる",
+   "い.かす",
+   "い.ける"
+  ],
+  "mean": [
+   "lively",
+   "resuscitation",
+   "being helped",
+   "living"
+  ],
+  "rank": 129
+ },
+ {
+  "k": "原",
+  "freq": 172,
+  "grade": 2,
+  "sc": 10,
+  "on": [
+   "ゲン"
+  ],
+  "kun": [
+   "はら"
+  ],
+  "mean": [
+   "meadow",
+   "original",
+   "primitive",
+   "field",
+   "plain",
+   "prairie",
+   "tundra",
+   "wilderness"
+  ],
+  "rank": 130
+ },
+ {
+  "k": "先",
+  "freq": 173,
+  "grade": 1,
+  "sc": 6,
+  "on": [
+   "セン"
+  ],
+  "kun": [
+   "さき",
+   "ま.ず"
+  ],
+  "mean": [
+   "before",
+   "ahead",
+   "previous",
+   "future",
+   "precedence"
+  ],
+  "rank": 131
+ },
+ {
+  "k": "名",
+  "freq": 177,
+  "grade": 1,
+  "sc": 6,
+  "on": [
+   "メイ",
+   "ミョウ"
+  ],
+  "kun": [
+   "な",
+   "-な"
+  ],
+  "mean": [
+   "name",
+   "noted",
+   "distinguished",
+   "reputation"
+  ],
+  "rank": 132
+ },
+ {
+  "k": "交",
+  "freq": 178,
+  "grade": 2,
+  "sc": 6,
+  "on": [
+   "コウ"
+  ],
+  "kun": [
+   "まじ.わる",
+   "まじ.える",
+   "ま.じる",
+   "まじ.る",
+   "ま.ざる",
+   "ま.ぜる",
+   "-か.う",
+   "か.わす",
+   "かわ.す",
+   "こもごも"
+  ],
+  "mean": [
+   "mingle",
+   "mixing",
+   "association",
+   "coming & going"
+  ],
+  "rank": 133
+ },
+ {
+  "k": "予",
+  "freq": 180,
+  "grade": 3,
+  "sc": 4,
+  "on": [
+   "ヨ",
+   "シャ"
+  ],
+  "kun": [
+   "あらかじ.め"
+  ],
+  "mean": [
+   "beforehand",
+   "previous",
+   "myself",
+   "I"
+  ],
+  "rank": 134
+ },
+ {
+  "k": "川",
+  "freq": 181,
+  "grade": 1,
+  "sc": 3,
+  "on": [
+   "セン"
+  ],
+  "kun": [
+   "かわ"
+  ],
+  "mean": [
+   "stream",
+   "river",
+   "river or three-stroke river radical (no. 47)"
+  ],
+  "rank": 135
+ },
+ {
+  "k": "向",
+  "freq": 182,
+  "grade": 3,
+  "sc": 6,
+  "on": [
+   "コウ"
+  ],
+  "kun": [
+   "む.く",
+   "む.い",
+   "-む.き",
+   "む.ける",
+   "-む.け",
+   "む.かう",
+   "む.かい",
+   "む.こう",
+   "む.こう-",
+   "むこ",
+   "むか.い"
+  ],
+  "mean": [
+   "yonder",
+   "facing",
+   "beyond",
+   "confront",
+   "defy",
+   "tend toward",
+   "approach"
+  ],
+  "rank": 136
+ },
+ {
+  "k": "勝",
+  "freq": 185,
+  "grade": 3,
+  "sc": 12,
+  "on": [
+   "ショウ"
+  ],
+  "kun": [
+   "か.つ",
+   "-が.ち",
+   "まさ.る",
+   "すぐ.れる",
+   "かつ"
+  ],
+  "mean": [
+   "victory",
+   "win",
+   "prevail",
+   "excel"
+  ],
+  "rank": 137
+ },
+ {
+  "k": "面",
+  "freq": 186,
+  "grade": 3,
+  "sc": 9,
+  "on": [
+   "メン",
+   "ベン"
+  ],
+  "kun": [
+   "おも",
+   "おもて",
+   "つら"
+  ],
+  "mean": [
+   "mask",
+   "face",
+   "features",
+   "surface"
+  ],
+  "rank": 138
+ },
+ {
+  "k": "委",
+  "freq": 187,
+  "grade": 3,
+  "sc": 8,
+  "on": [
+   "イ"
+  ],
+  "kun": [
+   "ゆだ.ねる"
+  ],
+  "mean": [
+   "committee",
+   "entrust to",
+   "leave to",
+   "devote",
+   "discard"
+  ],
+  "rank": 139
+ },
+ {
+  "k": "文",
+  "freq": 190,
+  "grade": 1,
+  "sc": 4,
+  "on": [
+   "ブン",
+   "モン"
+  ],
+  "kun": [
+   "ふみ",
+   "あや"
+  ],
+  "mean": [
+   "sentence",
+   "literature",
+   "style",
+   "art",
+   "decoration",
+   "figures",
+   "plan",
+   "literary radical (no. 67)"
+  ],
+  "rank": 140
+ },
+ {
+  "k": "反",
+  "freq": 191,
+  "grade": 3,
+  "sc": 4,
+  "on": [
+   "ハン",
+   "ホン",
+   "タン",
+   "ホ"
+  ],
+  "kun": [
+   "そ.る",
+   "そ.らす",
+   "かえ.す",
+   "かえ.る",
+   "-かえ.る"
+  ],
+  "mean": [
+   "anti-"
+  ],
+  "rank": 141
+ },
+ {
+  "k": "元",
+  "freq": 192,
+  "grade": 2,
+  "sc": 4,
+  "on": [
+   "ゲン",
+   "ガン"
+  ],
+  "kun": [
+   "もと"
+  ],
+  "mean": [
+   "beginning",
+   "former time",
+   "origin"
+  ],
+  "rank": 142
+ },
+ {
+  "k": "重",
+  "freq": 193,
+  "grade": 3,
+  "sc": 9,
+  "on": [
+   "ジュウ",
+   "チョウ"
+  ],
+  "kun": [
+   "え",
+   "おも.い",
+   "おも.り",
+   "おも.なう",
+   "かさ.ねる",
+   "かさ.なる",
+   "おも"
+  ],
+  "mean": [
+   "heavy",
+   "important",
+   "esteem",
+   "respect",
+   "heap up",
+   "pile up",
+   "nest of boxes",
+   "-fold"
+  ],
+  "rank": 143
+ },
+ {
+  "k": "近",
+  "freq": 194,
+  "grade": 2,
+  "sc": 7,
+  "on": [
+   "キン",
+   "コン"
+  ],
+  "kun": [
+   "ちか.い"
+  ],
+  "mean": [
+   "near",
+   "early",
+   "akin",
+   "tantamount"
+  ],
+  "rank": 144
+ },
+ {
+  "k": "千",
+  "freq": 195,
+  "grade": 1,
+  "sc": 3,
+  "on": [
+   "セン"
+  ],
+  "kun": [
+   "ち"
+  ],
+  "mean": [
+   "thousand"
+  ],
+  "rank": 145
+ },
+ {
+  "k": "考",
+  "freq": 196,
+  "grade": 2,
+  "sc": 6,
+  "on": [
+   "コウ"
+  ],
+  "kun": [
+   "かんが.える",
+   "かんが.え"
+  ],
+  "mean": [
+   "consider",
+   "think over"
+  ],
+  "rank": 146
+ },
+ {
+  "k": "画",
+  "freq": 199,
+  "grade": 2,
+  "sc": 8,
+  "on": [
+   "ガ",
+   "カク",
+   "エ",
+   "カイ"
+  ],
+  "kun": [
+   "えが.く",
+   "かく.する",
+   "かぎ.る",
+   "はかりごと",
+   "はか.る"
+  ],
+  "mean": [
+   "brush-stroke",
+   "picture"
+  ],
+  "rank": 147
+ },
+ {
+  "k": "海",
+  "freq": 200,
+  "grade": 2,
+  "sc": 9,
+  "on": [
+   "カイ"
+  ],
+  "kun": [
+   "うみ"
+  ],
+  "mean": [
+   "sea",
+   "ocean"
+  ],
+  "rank": 148
+ },
+ {
+  "k": "売",
+  "freq": 202,
+  "grade": 2,
+  "sc": 7,
+  "on": [
+   "バイ"
+  ],
+  "kun": [
+   "う.る",
+   "う.れる"
+  ],
+  "mean": [
+   "sell"
+  ],
+  "rank": 149
+ },
+ {
+  "k": "組",
+  "freq": 204,
+  "grade": 2,
+  "sc": 11,
+  "on": [
+   "ソ"
+  ],
+  "kun": [
+   "く.む",
+   "くみ",
+   "-ぐみ"
+  ],
+  "mean": [
+   "association",
+   "braid",
+   "plait",
+   "construct",
+   "assemble",
+   "unite",
+   "cooperate",
+   "grapple"
+  ],
+  "rank": 150
+ },
+ {
+  "k": "知",
+  "freq": 205,
+  "grade": 2,
+  "sc": 8,
+  "on": [
+   "チ"
+  ],
+  "kun": [
+   "し.る",
+   "し.らせる"
+  ],
+  "mean": [
+   "know",
+   "wisdom"
+  ],
+  "rank": 151
+ },
+ {
+  "k": "道",
+  "freq": 207,
+  "grade": 2,
+  "sc": 12,
+  "on": [
+   "ドウ",
+   "トウ"
+  ],
+  "kun": [
+   "みち",
+   "いう"
+  ],
+  "mean": [
+   "road-way",
+   "street",
+   "district",
+   "journey",
+   "course",
+   "moral",
+   "teachings"
+  ],
+  "rank": 152
+ },
+ {
+  "k": "集",
+  "freq": 210,
+  "grade": 3,
+  "sc": 12,
+  "on": [
+   "シュウ"
+  ],
+  "kun": [
+   "あつ.まる",
+   "あつ.める",
+   "つど.う"
+  ],
+  "mean": [
+   "gather",
+   "meet",
+   "congregate",
+   "swarm",
+   "flock"
+  ],
+  "rank": 153
+ },
+ {
+  "k": "物",
+  "freq": 215,
+  "grade": 3,
+  "sc": 8,
+  "on": [
+   "ブツ",
+   "モツ"
+  ],
+  "kun": [
+   "もの",
+   "もの-"
+  ],
+  "mean": [
+   "thing",
+   "object",
+   "matter"
+  ],
+  "rank": 154
+ },
+ {
+  "k": "引",
+  "freq": 218,
+  "grade": 2,
+  "sc": 4,
+  "on": [
+   "イン"
+  ],
+  "kun": [
+   "ひ.く",
+   "ひ.ける"
+  ],
+  "mean": [
+   "pull",
+   "tug",
+   "jerk",
+   "admit",
+   "install",
+   "quote",
+   "refer to"
+  ],
+  "rank": 155
+ },
+ {
+  "k": "使",
+  "freq": 219,
+  "grade": 3,
+  "sc": 8,
+  "on": [
+   "シ"
+  ],
+  "kun": [
+   "つか.う",
+   "つか.い",
+   "-つか.い",
+   "-づか.い"
+  ],
+  "mean": [
+   "use",
+   "send on a mission",
+   "order",
+   "messenger",
+   "envoy",
+   "ambassador",
+   "cause"
+  ],
+  "rank": 156
+ },
+ {
+  "k": "所",
+  "freq": 221,
+  "grade": 3,
+  "sc": 8,
+  "on": [
+   "ショ"
+  ],
+  "kun": [
+   "ところ",
+   "-ところ",
+   "どころ",
+   "とこ"
+  ],
+  "mean": [
+   "place",
+   "extent"
+  ],
+  "rank": 157
+ },
+ {
+  "k": "次",
+  "freq": 222,
+  "grade": 3,
+  "sc": 6,
+  "on": [
+   "ジ",
+   "シ"
+  ],
+  "kun": [
+   "つ.ぐ",
+   "つぎ"
+  ],
+  "mean": [
+   "next",
+   "order",
+   "sequence"
+  ],
+  "rank": 158
+ },
+ {
+  "k": "水",
+  "freq": 223,
+  "grade": 1,
+  "sc": 4,
+  "on": [
+   "スイ"
+  ],
+  "kun": [
+   "みず",
+   "みず-"
+  ],
+  "mean": [
+   "water"
+  ],
+  "rank": 159
+ },
+ {
+  "k": "半",
+  "freq": 224,
+  "grade": 2,
+  "sc": 5,
+  "on": [
+   "ハン"
+  ],
+  "kun": [
+   "なか.ば"
+  ],
+  "mean": [
+   "half",
+   "middle",
+   "odd number",
+   "semi-",
+   "part-"
+  ],
+  "rank": 160
+ },
+ {
+  "k": "品",
+  "freq": 225,
+  "grade": 3,
+  "sc": 9,
+  "on": [
+   "ヒン",
+   "ホン"
+  ],
+  "kun": [
+   "しな"
+  ],
+  "mean": [
+   "goods",
+   "refinement",
+   "dignity",
+   "article",
+   "counter for meal courses"
+  ],
+  "rank": 161
+ },
+ {
+  "k": "計",
+  "freq": 228,
+  "grade": 2,
+  "sc": 9,
+  "on": [
+   "ケイ"
+  ],
+  "kun": [
+   "はか.る",
+   "はか.らう"
+  ],
+  "mean": [
+   "plot",
+   "plan",
+   "scheme",
+   "measure"
+  ],
+  "rank": 162
+ },
+ {
+  "k": "死",
+  "freq": 229,
+  "grade": 3,
+  "sc": 6,
+  "on": [
+   "シ"
+  ],
+  "kun": [
+   "し.ぬ",
+   "し.に-"
+  ],
+  "mean": [
+   "death",
+   "die"
+  ],
+  "rank": 163
+ },
+ {
+  "k": "係",
+  "freq": 232,
+  "grade": 3,
+  "sc": 9,
+  "on": [
+   "ケイ"
+  ],
+  "kun": [
+   "かか.る",
+   "かかり",
+   "-がかり",
+   "かか.わる"
+  ],
+  "mean": [
+   "person in charge",
+   "connection",
+   "duty",
+   "concern oneself"
+  ],
+  "rank": 164
+ },
+ {
+  "k": "感",
+  "freq": 233,
+  "grade": 3,
+  "sc": 13,
+  "on": [
+   "カン"
+  ],
+  "kun": [],
+  "mean": [
+   "emotion",
+   "feeling",
+   "sensation"
+  ],
+  "rank": 165
+ },
+ {
+  "k": "投",
+  "freq": 236,
+  "grade": 3,
+  "sc": 7,
+  "on": [
+   "トウ"
+  ],
+  "kun": [
+   "な.げる",
+   "-な.げ"
+  ],
+  "mean": [
+   "throw",
+   "discard",
+   "abandon",
+   "launch into",
+   "join",
+   "invest in",
+   "hurl",
+   "give up",
+   "sell at a loss"
+  ],
+  "rank": 166
+ },
+ {
+  "k": "打",
+  "freq": 239,
+  "grade": 3,
+  "sc": 5,
+  "on": [
+   "ダ",
+   "ダース"
+  ],
+  "kun": [
+   "う.つ",
+   "う.ち-",
+   "ぶ.つ"
+  ],
+  "mean": [
+   "strike",
+   "hit",
+   "knock",
+   "pound",
+   "dozen"
+  ],
+  "rank": 167
+ },
+ {
+  "k": "男",
+  "freq": 240,
+  "grade": 1,
+  "sc": 7,
+  "on": [
+   "ダン",
+   "ナン"
+  ],
+  "kun": [
+   "おとこ",
+   "お"
+  ],
+  "mean": [
+   "male"
+  ],
+  "rank": 168
+ },
+ {
+  "k": "始",
+  "freq": 244,
+  "grade": 3,
+  "sc": 8,
+  "on": [
+   "シ"
+  ],
+  "kun": [
+   "はじ.める",
+   "-はじ.める",
+   "はじ.まる"
+  ],
+  "mean": [
+   "commence",
+   "begin"
+  ],
+  "rank": 169
+ },
+ {
+  "k": "島",
+  "freq": 245,
+  "grade": 3,
+  "sc": 10,
+  "on": [
+   "トウ"
+  ],
+  "kun": [
+   "しま"
+  ],
+  "mean": [
+   "island"
+  ],
+  "rank": 170
+ },
+ {
+  "k": "直",
+  "freq": 246,
+  "grade": 2,
+  "sc": 8,
+  "on": [
+   "チョク",
+   "ジキ",
+   "ジカ"
+  ],
+  "kun": [
+   "ただ.ちに",
+   "なお.す",
+   "-なお.す",
+   "なお.る",
+   "なお.き",
+   "す.ぐ"
+  ],
+  "mean": [
+   "straightaway",
+   "honesty",
+   "frankness",
+   "fix",
+   "repair"
+  ],
+  "rank": 171
+ },
+ {
+  "k": "両",
+  "freq": 247,
+  "grade": 3,
+  "sc": 6,
+  "on": [
+   "リョウ"
+  ],
+  "kun": [
+   "てる",
+   "ふたつ"
+  ],
+  "mean": [
+   "both",
+   "old Japanese coin",
+   "counter for carriages (e.g., in a train)",
+   "two"
+  ],
+  "rank": 172
+ },
+ {
+  "k": "朝",
+  "freq": 248,
+  "grade": 2,
+  "sc": 12,
+  "on": [
+   "チョウ"
+  ],
+  "kun": [
+   "あさ"
+  ],
+  "mean": [
+   "morning",
+   "dynasty",
+   "regime",
+   "epoch",
+   "period",
+   "(North) Korea"
+  ],
+  "rank": 173
+ },
+ {
+  "k": "式",
+  "freq": 251,
+  "grade": 3,
+  "sc": 6,
+  "on": [
+   "シキ"
+  ],
+  "kun": [],
+  "mean": [
+   "style",
+   "ceremony",
+   "rite",
+   "function",
+   "method",
+   "system",
+   "form",
+   "expression"
+  ],
+  "rank": 174
+ },
+ {
+  "k": "村",
+  "freq": 253,
+  "grade": 1,
+  "sc": 7,
+  "on": [
+   "ソン"
+  ],
+  "kun": [
+   "むら"
+  ],
+  "mean": [
+   "village",
+   "town"
+  ],
+  "rank": 175
+ },
+ {
+  "k": "運",
+  "freq": 255,
+  "grade": 3,
+  "sc": 12,
+  "on": [
+   "ウン"
+  ],
+  "kun": [
+   "はこ.ぶ"
+  ],
+  "mean": [
+   "carry",
+   "luck",
+   "destiny",
+   "fate",
+   "lot",
+   "transport",
+   "progress",
+   "advance"
+  ],
+  "rank": 176
+ },
+ {
+  "k": "終",
+  "freq": 256,
+  "grade": 3,
+  "sc": 11,
+  "on": [
+   "シュウ"
+  ],
+  "kun": [
+   "お.わる",
+   "-お.わる",
+   "おわ.る",
+   "お.える",
+   "つい",
+   "つい.に"
+  ],
+  "mean": [
+   "end",
+   "finish"
+  ],
+  "rank": 177
+ },
+ {
+  "k": "西",
+  "freq": 259,
+  "grade": 2,
+  "sc": 6,
+  "on": [
+   "セイ",
+   "サイ",
+   "ス"
+  ],
+  "kun": [
+   "にし"
+  ],
+  "mean": [
+   "west",
+   "Spain"
+  ],
+  "rank": 178
+ },
+ {
+  "k": "台",
+  "freq": 262,
+  "grade": 2,
+  "sc": 5,
+  "on": [
+   "ダイ",
+   "タイ"
+  ],
+  "kun": [
+   "うてな",
+   "われ",
+   "つかさ"
+  ],
+  "mean": [
+   "pedestal",
+   "a stand",
+   "counter for machines and vehicles"
+  ],
+  "rank": 179
+ },
+ {
+  "k": "広",
+  "freq": 263,
+  "grade": 2,
+  "sc": 5,
+  "on": [
+   "コウ"
+  ],
+  "kun": [
+   "ひろ.い",
+   "ひろ.まる",
+   "ひろ.める",
+   "ひろ.がる",
+   "ひろ.げる"
+  ],
+  "mean": [
+   "wide",
+   "broad",
+   "spacious"
+  ],
+  "rank": 180
+ },
+ {
+  "k": "電",
+  "freq": 268,
+  "grade": 2,
+  "sc": 13,
+  "on": [
+   "デン"
+  ],
+  "kun": [],
+  "mean": [
+   "electricity"
+  ],
+  "rank": 181
+ },
+ {
+  "k": "住",
+  "freq": 270,
+  "grade": 3,
+  "sc": 7,
+  "on": [
+   "ジュウ",
+   "ヂュウ",
+   "チュウ"
+  ],
+  "kun": [
+   "す.む",
+   "す.まう",
+   "-ず.まい"
+  ],
+  "mean": [
+   "dwell",
+   "reside",
+   "live",
+   "inhabit"
+  ],
+  "rank": 182
+ },
+ {
+  "k": "談",
+  "freq": 272,
+  "grade": 3,
+  "sc": 15,
+  "on": [
+   "ダン"
+  ],
+  "kun": [],
+  "mean": [
+   "discuss",
+   "talk"
+  ],
+  "rank": 183
+ },
+ {
+  "k": "真",
+  "freq": 279,
+  "grade": 3,
+  "sc": 10,
+  "on": [
+   "シン"
+  ],
+  "kun": [
+   "ま",
+   "ま-",
+   "まこと"
+  ],
+  "mean": [
+   "true",
+   "reality",
+   "Buddhist sect"
+  ],
+  "rank": 184
+ },
+ {
+  "k": "流",
+  "freq": 280,
+  "grade": 3,
+  "sc": 10,
+  "on": [
+   "リュウ",
+   "ル"
+  ],
+  "kun": [
+   "なが.れる",
+   "なが.れ",
+   "なが.す",
+   "-なが.す"
+  ],
+  "mean": [
+   "current",
+   "a sink",
+   "flow",
+   "forfeit"
+  ],
+  "rank": 185
+ },
+ {
+  "k": "有",
+  "freq": 282,
+  "grade": 3,
+  "sc": 6,
+  "on": [
+   "ユウ",
+   "ウ"
+  ],
+  "kun": [
+   "あ.る"
+  ],
+  "mean": [
+   "possess",
+   "have",
+   "exist",
+   "happen",
+   "occur",
+   "approx"
+  ],
+  "rank": 186
+ },
+ {
+  "k": "口",
+  "freq": 284,
+  "grade": 1,
+  "sc": 3,
+  "on": [
+   "コウ",
+   "ク"
+  ],
+  "kun": [
+   "くち"
+  ],
+  "mean": [
+   "mouth"
+  ],
+  "rank": 187
+ },
+ {
+  "k": "局",
+  "freq": 286,
+  "grade": 3,
+  "sc": 7,
+  "on": [
+   "キョク"
+  ],
+  "kun": [
+   "つぼね"
+  ],
+  "mean": [
+   "bureau",
+   "board",
+   "office",
+   "affair",
+   "conclusion",
+   "court lady",
+   "lady-in-waiting",
+   "her apartment"
+  ],
+  "rank": 188
+ },
+ {
+  "k": "少",
+  "freq": 287,
+  "grade": 2,
+  "sc": 4,
+  "on": [
+   "ショウ"
+  ],
+  "kun": [
+   "すく.ない",
+   "すこ.し"
+  ],
+  "mean": [
+   "few",
+   "little"
+  ],
+  "rank": 189
+ },
+ {
+  "k": "放",
+  "freq": 288,
+  "grade": 3,
+  "sc": 8,
+  "on": [
+   "ホウ"
+  ],
+  "kun": [
+   "はな.す",
+   "-っぱな.し",
+   "はな.つ",
+   "はな.れる",
+   "こ.く",
+   "ほう.る"
+  ],
+  "mean": [
+   "set free",
+   "release",
+   "fire",
+   "shoot",
+   "emit",
+   "banish",
+   "liberate"
+  ],
+  "rank": 190
+ },
+ {
+  "k": "町",
+  "freq": 292,
+  "grade": 1,
+  "sc": 7,
+  "on": [
+   "チョウ"
+  ],
+  "kun": [
+   "まち"
+  ],
+  "mean": [
+   "town",
+   "village",
+   "block",
+   "street"
+  ],
+  "rank": 191
+ },
+ {
+  "k": "校",
+  "freq": 294,
+  "grade": 1,
+  "sc": 10,
+  "on": [
+   "コウ",
+   "キョウ"
+  ],
+  "kun": [],
+  "mean": [
+   "exam",
+   "school",
+   "printing",
+   "proof",
+   "correction"
+  ],
+  "rank": 192
+ },
+ {
+  "k": "工",
+  "freq": 299,
+  "grade": 2,
+  "sc": 3,
+  "on": [
+   "コウ",
+   "ク",
+   "グ"
+  ],
+  "kun": [],
+  "mean": [
+   "craft",
+   "construction",
+   "katakana e radical (no. 48)"
+  ],
+  "rank": 193
+ },
+ {
+  "k": "語",
+  "freq": 301,
+  "grade": 2,
+  "sc": 14,
+  "on": [
+   "ゴ"
+  ],
+  "kun": [
+   "かた.る",
+   "かた.らう"
+  ],
+  "mean": [
+   "word",
+   "speech",
+   "language"
+  ],
+  "rank": 194
+ },
+ {
+  "k": "球",
+  "freq": 302,
+  "grade": 3,
+  "sc": 11,
+  "on": [
+   "キュウ"
+  ],
+  "kun": [
+   "たま"
+  ],
+  "mean": [
+   "ball",
+   "sphere"
+  ],
+  "rank": 195
+ },
+ {
+  "k": "空",
+  "freq": 304,
+  "grade": 1,
+  "sc": 8,
+  "on": [
+   "クウ"
+  ],
+  "kun": [
+   "そら",
+   "あ.く",
+   "あ.き",
+   "あ.ける",
+   "から",
+   "す.く",
+   "す.かす",
+   "むな.しい"
+  ],
+  "mean": [
+   "empty",
+   "sky",
+   "void",
+   "vacant",
+   "vacuum"
+  ],
+  "rank": 196
+ },
+ {
+  "k": "土",
+  "freq": 307,
+  "grade": 1,
+  "sc": 3,
+  "on": [
+   "ド",
+   "ト"
+  ],
+  "kun": [
+   "つち"
+  ],
+  "mean": [
+   "soil",
+   "earth",
+   "ground",
+   "Turkey"
+  ],
+  "rank": 197
+ },
+ {
+  "k": "急",
+  "freq": 309,
+  "grade": 3,
+  "sc": 9,
+  "on": [
+   "キュウ"
+  ],
+  "kun": [
+   "いそ.ぐ",
+   "いそ.ぎ",
+   "せ.く"
+  ],
+  "mean": [
+   "hurry",
+   "emergency",
+   "sudden",
+   "steep"
+  ],
+  "rank": 198
+ },
+ {
+  "k": "止",
+  "freq": 310,
+  "grade": 2,
+  "sc": 4,
+  "on": [
+   "シ"
+  ],
+  "kun": [
+   "と.まる",
+   "-ど.まり",
+   "と.める",
+   "-と.める",
+   "-ど.め",
+   "とど.める",
+   "とど.め",
+   "とど.まる",
+   "や.める",
+   "や.む",
+   "-や.む",
+   "よ.す",
+   "-さ.す",
+   "-さ.し"
+  ],
+  "mean": [
+   "stop",
+   "halt"
+  ],
+  "rank": 199
+ },
+ {
+  "k": "送",
+  "freq": 311,
+  "grade": 3,
+  "sc": 9,
+  "on": [
+   "ソウ"
+  ],
+  "kun": [
+   "おく.る"
+  ],
+  "mean": [
+   "escort",
+   "send"
+  ],
+  "rank": 200
+ },
+ {
+  "k": "役",
+  "freq": 315,
+  "grade": 3,
+  "sc": 7,
+  "on": [
+   "ヤク",
+   "エキ"
+  ],
+  "kun": [],
+  "mean": [
+   "duty",
+   "war",
+   "campaign",
+   "drafted labor",
+   "office",
+   "service",
+   "role"
+  ],
+  "rank": 201
+ },
+ {
+  "k": "木",
+  "freq": 317,
+  "grade": 1,
+  "sc": 4,
+  "on": [
+   "ボク",
+   "モク"
+  ],
+  "kun": [
+   "き",
+   "こ-"
+  ],
+  "mean": [
+   "tree",
+   "wood"
+  ],
+  "rank": 202
+ },
+ {
+  "k": "聞",
+  "freq": 319,
+  "grade": 2,
+  "sc": 14,
+  "on": [
+   "ブン",
+   "モン"
+  ],
+  "kun": [
+   "き.く",
+   "き.こえる"
+  ],
+  "mean": [
+   "hear",
+   "ask",
+   "listen"
+  ],
+  "rank": 203
+ },
+ {
+  "k": "身",
+  "freq": 320,
+  "grade": 3,
+  "sc": 7,
+  "on": [
+   "シン"
+  ],
+  "kun": [
+   "み"
+  ],
+  "mean": [
+   "somebody",
+   "person",
+   "one's station in life"
+  ],
+  "rank": 204
+ },
+ {
+  "k": "切",
+  "freq": 324,
+  "grade": 2,
+  "sc": 4,
+  "on": [
+   "セツ",
+   "サイ"
+  ],
+  "kun": [
+   "き.る",
+   "-き.る",
+   "き.り",
+   "-き.り",
+   "-ぎ.り",
+   "き.れる",
+   "-き.れる",
+   "き.れ",
+   "-き.れ",
+   "-ぎ.れ"
+  ],
+  "mean": [
+   "cut",
+   "cutoff",
+   "be sharp"
+  ],
+  "rank": 205
+ },
+ {
+  "k": "由",
+  "freq": 325,
+  "grade": 3,
+  "sc": 5,
+  "on": [
+   "ユ",
+   "ユウ",
+   "ユイ"
+  ],
+  "kun": [
+   "よし",
+   "よ.る"
+  ],
+  "mean": [
+   "wherefore",
+   "a reason"
+  ],
+  "rank": 206
+ },
+ {
+  "k": "転",
+  "freq": 327,
+  "grade": 3,
+  "sc": 11,
+  "on": [
+   "テン"
+  ],
+  "kun": [
+   "ころ.がる",
+   "ころ.げる",
+   "ころ.がす",
+   "ころ.ぶ",
+   "まろ.ぶ",
+   "うたた",
+   "うつ.る",
+   "くる.めく"
+  ],
+  "mean": [
+   "revolve",
+   "turn around",
+   "change"
+  ],
+  "rank": 207
+ },
+ {
+  "k": "食",
+  "freq": 328,
+  "grade": 2,
+  "sc": 9,
+  "on": [
+   "ショク",
+   "ジキ"
+  ],
+  "kun": [
+   "く.う",
+   "く.らう",
+   "た.べる",
+   "は.む"
+  ],
+  "mean": [
+   "eat",
+   "food"
+  ],
+  "rank": 208
+ },
+ {
+  "k": "車",
+  "freq": 333,
+  "grade": 1,
+  "sc": 7,
+  "on": [
+   "シャ"
+  ],
+  "kun": [
+   "くるま"
+  ],
+  "mean": [
+   "car"
+  ],
+  "rank": 209
+ },
+ {
+  "k": "研",
+  "freq": 336,
+  "grade": 3,
+  "sc": 9,
+  "on": [
+   "ケン"
+  ],
+  "kun": [
+   "と.ぐ"
+  ],
+  "mean": [
+   "polish",
+   "study of",
+   "sharpen"
+  ],
+  "rank": 210
+ },
+ {
+  "k": "何",
+  "freq": 340,
+  "grade": 2,
+  "sc": 7,
+  "on": [
+   "カ"
+  ],
+  "kun": [
+   "なに",
+   "なん",
+   "なに-",
+   "なん-"
+  ],
+  "mean": [
+   "what"
+  ],
+  "rank": 211
+ },
+ {
+  "k": "南",
+  "freq": 341,
+  "grade": 2,
+  "sc": 9,
+  "on": [
+   "ナン",
+   "ナ"
+  ],
+  "kun": [
+   "みなみ"
+  ],
+  "mean": [
+   "south"
+  ],
+  "rank": 212
+ },
+ {
+  "k": "石",
+  "freq": 342,
+  "grade": 1,
+  "sc": 5,
+  "on": [
+   "セキ",
+   "シャク",
+   "コク"
+  ],
+  "kun": [
+   "いし"
+  ],
+  "mean": [
+   "stone"
+  ],
+  "rank": 213
+ },
+ {
+  "k": "足",
+  "freq": 343,
+  "grade": 1,
+  "sc": 7,
+  "on": [
+   "ソク"
+  ],
+  "kun": [
+   "あし",
+   "た.りる",
+   "た.る",
+   "た.す"
+  ],
+  "mean": [
+   "leg",
+   "foot",
+   "be sufficient",
+   "counter for pairs of footwear"
+  ],
+  "rank": 214
+ },
+ {
+  "k": "消",
+  "freq": 345,
+  "grade": 3,
+  "sc": 10,
+  "on": [
+   "ショウ"
+  ],
+  "kun": [
+   "き.える",
+   "け.す"
+  ],
+  "mean": [
+   "extinguish",
+   "blow out",
+   "turn off",
+   "neutralize",
+   "cancel"
+  ],
+  "rank": 215
+ },
+ {
+  "k": "神",
+  "freq": 347,
+  "grade": 3,
+  "sc": 9,
+  "on": [
+   "シン",
+   "ジン"
+  ],
+  "kun": [
+   "かみ",
+   "かん-",
+   "こう-"
+  ],
+  "mean": [
+   "gods",
+   "mind",
+   "soul"
+  ],
+  "rank": 216
+ },
+ {
+  "k": "番",
+  "freq": 348,
+  "grade": 2,
+  "sc": 12,
+  "on": [
+   "バン"
+  ],
+  "kun": [
+   "つが.い"
+  ],
+  "mean": [
+   "turn",
+   "number in a series"
+  ],
+  "rank": 217
+ },
+ {
+  "k": "配",
+  "freq": 359,
+  "grade": 3,
+  "sc": 10,
+  "on": [
+   "ハイ"
+  ],
+  "kun": [
+   "くば.る"
+  ],
+  "mean": [
+   "distribute",
+   "spouse",
+   "exile",
+   "rationing"
+  ],
+  "rank": 218
+ },
+ {
+  "k": "算",
+  "freq": 361,
+  "grade": 2,
+  "sc": 14,
+  "on": [
+   "サン"
+  ],
+  "kun": [
+   "そろ"
+  ],
+  "mean": [
+   "calculate",
+   "divining",
+   "number",
+   "abacus",
+   "probability"
+  ],
+  "rank": 219
+ },
+ {
+  "k": "宮",
+  "freq": 367,
+  "grade": 3,
+  "sc": 10,
+  "on": [
+   "キュウ",
+   "グウ",
+   "ク",
+   "クウ"
+  ],
+  "kun": [
+   "みや"
+  ],
+  "mean": [
+   "Shinto shrine",
+   "constellations",
+   "palace",
+   "princess"
+  ],
+  "rank": 220
+ },
+ {
+  "k": "究",
+  "freq": 368,
+  "grade": 3,
+  "sc": 7,
+  "on": [
+   "キュウ",
+   "ク"
+  ],
+  "kun": [
+   "きわ.める"
+  ],
+  "mean": [
+   "research",
+   "study"
+  ],
+  "rank": 221
+ },
+ {
+  "k": "育",
+  "freq": 369,
+  "grade": 3,
+  "sc": 8,
+  "on": [
+   "イク"
+  ],
+  "kun": [
+   "そだ.つ",
+   "そだ.ち",
+   "そだ.てる",
+   "はぐく.む"
+  ],
+  "mean": [
+   "bring up",
+   "grow up",
+   "raise",
+   "rear"
+  ],
+  "rank": 222
+ },
+ {
+  "k": "楽",
+  "freq": 373,
+  "grade": 2,
+  "sc": 13,
+  "on": [
+   "ガク",
+   "ラク",
+   "ゴウ"
+  ],
+  "kun": [
+   "たの.しい",
+   "たの.しむ",
+   "この.む"
+  ],
+  "mean": [
+   "music",
+   "comfort",
+   "ease"
+  ],
+  "rank": 223
+ },
+ {
+  "k": "起",
+  "freq": 374,
+  "grade": 3,
+  "sc": 10,
+  "on": [
+   "キ"
+  ],
+  "kun": [
+   "お.きる",
+   "お.こる",
+   "お.こす",
+   "おこ.す",
+   "た.つ"
+  ],
+  "mean": [
+   "rouse",
+   "wake up",
+   "get up"
+  ],
+  "rank": 224
+ },
+ {
+  "k": "万",
+  "freq": 375,
+  "grade": 2,
+  "sc": 3,
+  "on": [
+   "マン",
+   "バン"
+  ],
+  "kun": [
+   "よろず"
+  ],
+  "mean": [
+   "ten thousand",
+   "10,000"
+  ],
+  "rank": 225
+ },
+ {
+  "k": "着",
+  "freq": 376,
+  "grade": 3,
+  "sc": 12,
+  "on": [
+   "チャク",
+   "ジャク"
+  ],
+  "kun": [
+   "き.る",
+   "き.せる",
+   "つ.く",
+   "つ.ける"
+  ],
+  "mean": [
+   "don",
+   "arrive",
+   "wear",
+   "counter for suits of clothing"
+  ],
+  "rank": 226
+ },
+ {
+  "k": "乗",
+  "freq": 377,
+  "grade": 3,
+  "sc": 9,
+  "on": [
+   "ジョウ",
+   "ショウ"
+  ],
+  "kun": [
+   "の.る",
+   "-の.り",
+   "の.せる"
+  ],
+  "mean": [
+   "ride",
+   "power",
+   "multiplication",
+   "record",
+   "counter for vehicles",
+   "board",
+   "mount",
+   "join"
+  ],
+  "rank": 227
+ },
+ {
+  "k": "店",
+  "freq": 378,
+  "grade": 2,
+  "sc": 8,
+  "on": [
+   "テン"
+  ],
+  "kun": [
+   "みせ",
+   "たな"
+  ],
+  "mean": [
+   "store",
+   "shop"
+  ],
+  "rank": 228
+ },
+ {
+  "k": "想",
+  "freq": 381,
+  "grade": 3,
+  "sc": 13,
+  "on": [
+   "ソウ",
+   "ソ"
+  ],
+  "kun": [
+   "おも.う"
+  ],
+  "mean": [
+   "idea",
+   "thought",
+   "conception",
+   "think"
+  ],
+  "rank": 229
+ },
+ {
+  "k": "線",
+  "freq": 382,
+  "grade": 2,
+  "sc": 15,
+  "on": [
+   "セン"
+  ],
+  "kun": [
+   "すじ"
+  ],
+  "mean": [
+   "line",
+   "track"
+  ],
+  "rank": 230
+ },
+ {
+  "k": "病",
+  "freq": 384,
+  "grade": 3,
+  "sc": 10,
+  "on": [
+   "ビョウ",
+   "ヘイ"
+  ],
+  "kun": [
+   "や.む",
+   "-や.み",
+   "やまい"
+  ],
+  "mean": [
+   "ill",
+   "sick"
+  ],
+  "rank": 231
+ },
+ {
+  "k": "農",
+  "freq": 385,
+  "grade": 3,
+  "sc": 13,
+  "on": [
+   "ノウ"
+  ],
+  "kun": [],
+  "mean": [
+   "agriculture",
+   "farmers"
+  ],
+  "rank": 232
+ },
+ {
+  "k": "州",
+  "freq": 386,
+  "grade": 3,
+  "sc": 6,
+  "on": [
+   "シュウ",
+   "ス"
+  ],
+  "kun": [
+   "す"
+  ],
+  "mean": [
+   "state",
+   "province"
+  ],
+  "rank": 233
+ },
+ {
+  "k": "声",
+  "freq": 388,
+  "grade": 2,
+  "sc": 7,
+  "on": [
+   "セイ",
+   "ショウ"
+  ],
+  "kun": [
+   "こえ",
+   "こわ-"
+  ],
+  "mean": [
+   "voice"
+  ],
+  "rank": 234
+ },
+ {
+  "k": "待",
+  "freq": 391,
+  "grade": 3,
+  "sc": 9,
+  "on": [
+   "タイ"
+  ],
+  "kun": [
+   "ま.つ",
+   "-ま.ち"
+  ],
+  "mean": [
+   "wait",
+   "depend on"
+  ],
+  "rank": 235
+ },
+ {
+  "k": "族",
+  "freq": 393,
+  "grade": 3,
+  "sc": 11,
+  "on": [
+   "ゾク"
+  ],
+  "kun": [],
+  "mean": [
+   "tribe",
+   "family"
+  ],
+  "rank": 236
+ },
+ {
+  "k": "銀",
+  "freq": 395,
+  "grade": 3,
+  "sc": 14,
+  "on": [
+   "ギン"
+  ],
+  "kun": [
+   "しろがね"
+  ],
+  "mean": [
+   "silver"
+  ],
+  "rank": 237
+ },
+ {
+  "k": "助",
+  "freq": 397,
+  "grade": 3,
+  "sc": 7,
+  "on": [
+   "ジョ"
+  ],
+  "kun": [
+   "たす.ける",
+   "たす.かる",
+   "す.ける",
+   "すけ"
+  ],
+  "mean": [
+   "help",
+   "rescue",
+   "assist"
+  ],
+  "rank": 238
+ },
+ {
+  "k": "早",
+  "freq": 402,
+  "grade": 1,
+  "sc": 6,
+  "on": [
+   "ソウ",
+   "サッ"
+  ],
+  "kun": [
+   "はや.い",
+   "はや",
+   "はや-",
+   "はや.まる",
+   "はや.める",
+   "さ-"
+  ],
+  "mean": [
+   "early",
+   "fast"
+  ],
+  "rank": 239
+ },
+ {
+  "k": "親",
+  "freq": 406,
+  "grade": 2,
+  "sc": 16,
+  "on": [
+   "シン"
+  ],
+  "kun": [
+   "おや",
+   "おや-",
+   "した.しい",
+   "した.しむ"
+  ],
+  "mean": [
+   "parent",
+   "intimacy",
+   "relative",
+   "familiarity",
+   "dealer (cards)"
+  ],
+  "rank": 240
+ },
+ {
+  "k": "追",
+  "freq": 411,
+  "grade": 3,
+  "sc": 9,
+  "on": [
+   "ツイ"
+  ],
+  "kun": [
+   "お.う"
+  ],
+  "mean": [
+   "chase",
+   "drive away",
+   "follow",
+   "pursue",
+   "meanwhile"
+  ],
+  "rank": 241
+ },
+ {
+  "k": "商",
+  "freq": 413,
+  "grade": 3,
+  "sc": 11,
+  "on": [
+   "ショウ"
+  ],
+  "kun": [
+   "あきな.う"
+  ],
+  "mean": [
+   "make a deal",
+   "selling",
+   "dealing in",
+   "merchant"
+  ],
+  "rank": 242
+ },
+ {
+  "k": "葉",
+  "freq": 414,
+  "grade": 3,
+  "sc": 12,
+  "on": [
+   "ヨウ"
+  ],
+  "kun": [
+   "は"
+  ],
+  "mean": [
+   "leaf",
+   "plane",
+   "lobe",
+   "needle",
+   "blade",
+   "spear",
+   "counter for flat things",
+   "fragment",
+   "piece"
+  ],
+  "rank": 243
+ },
+ {
+  "k": "形",
+  "freq": 418,
+  "grade": 2,
+  "sc": 7,
+  "on": [
+   "ケイ",
+   "ギョウ"
+  ],
+  "kun": [
+   "かた",
+   "-がた",
+   "かたち",
+   "なり"
+  ],
+  "mean": [
+   "shape",
+   "form",
+   "style"
+  ],
+  "rank": 244
+ },
+ {
+  "k": "落",
+  "freq": 420,
+  "grade": 3,
+  "sc": 12,
+  "on": [
+   "ラク"
+  ],
+  "kun": [
+   "お.ちる",
+   "お.ち",
+   "お.とす"
+  ],
+  "mean": [
+   "fall",
+   "drop",
+   "come down",
+   "village",
+   "hamlet"
+  ],
+  "rank": 245
+ },
+ {
+  "k": "頭",
+  "freq": 433,
+  "grade": 2,
+  "sc": 16,
+  "on": [
+   "トウ",
+   "ズ",
+   "ト"
+  ],
+  "kun": [
+   "あたま",
+   "かしら",
+   "-がしら",
+   "かぶり"
+  ],
+  "mean": [
+   "head",
+   "counter for large animals"
+  ],
+  "rank": 246
+ },
+ {
+  "k": "毎",
+  "freq": 436,
+  "grade": 2,
+  "sc": 6,
+  "on": [
+   "マイ"
+  ],
+  "kun": [
+   "ごと",
+   "-ごと.に"
+  ],
+  "mean": [
+   "every"
+  ],
+  "rank": 247
+ },
+ {
+  "k": "医",
+  "freq": 437,
+  "grade": 3,
+  "sc": 7,
+  "on": [
+   "イ"
+  ],
+  "kun": [
+   "い.やす",
+   "い.する",
+   "くすし"
+  ],
+  "mean": [
+   "doctor",
+   "medicine"
+  ],
+  "rank": 248
+ },
+ {
+  "k": "仕",
+  "freq": 439,
+  "grade": 3,
+  "sc": 5,
+  "on": [
+   "シ",
+   "ジ"
+  ],
+  "kun": [
+   "つか.える"
+  ],
+  "mean": [
+   "attend",
+   "doing",
+   "official",
+   "serve"
+  ],
+  "rank": 249
+ },
+ {
+  "k": "去",
+  "freq": 440,
+  "grade": 3,
+  "sc": 5,
+  "on": [
+   "キョ",
+   "コ"
+  ],
+  "kun": [
+   "さ.る",
+   "-さ.る"
+  ],
+  "mean": [
+   "gone",
+   "past",
+   "quit",
+   "leave",
+   "elapse",
+   "eliminate",
+   "divorce"
+  ],
+  "rank": 250
+ },
+ {
+  "k": "味",
+  "freq": 442,
+  "grade": 3,
+  "sc": 8,
+  "on": [
+   "ミ"
+  ],
+  "kun": [
+   "あじ",
+   "あじ.わう"
+  ],
+  "mean": [
+   "flavor",
+   "taste"
+  ],
+  "rank": 251
+ },
+ {
+  "k": "負",
+  "freq": 443,
+  "grade": 3,
+  "sc": 9,
+  "on": [
+   "フ"
+  ],
+  "kun": [
+   "ま.ける",
+   "ま.かす",
+   "お.う"
+  ],
+  "mean": [
+   "defeat",
+   "negative",
+   "-",
+   "minus",
+   "bear",
+   "owe",
+   "assume a responsibility"
+  ],
+  "rank": 252
+ },
+ {
+  "k": "門",
+  "freq": 452,
+  "grade": 2,
+  "sc": 8,
+  "on": [
+   "モン"
+  ],
+  "kun": [
+   "かど",
+   "と"
+  ],
+  "mean": [
+   "gate",
+   "counter for cannons"
+  ],
+  "rank": 253
+ },
+ {
+  "k": "写",
+  "freq": 453,
+  "grade": 3,
+  "sc": 5,
+  "on": [
+   "シャ",
+   "ジャ"
+  ],
+  "kun": [
+   "うつ.す",
+   "うつ.る",
+   "うつ-",
+   "うつ.し"
+  ],
+  "mean": [
+   "copy",
+   "be photographed",
+   "describe"
+  ],
+  "rank": 254
+ },
+ {
+  "k": "守",
+  "freq": 457,
+  "grade": 3,
+  "sc": 6,
+  "on": [
+   "シュ",
+   "ス"
+  ],
+  "kun": [
+   "まも.る",
+   "まも.り",
+   "もり",
+   "-もり",
+   "かみ"
+  ],
+  "mean": [
+   "guard",
+   "protect",
+   "defend",
+   "obey"
+  ],
+  "rank": 255
+ },
+ {
+  "k": "美",
+  "freq": 462,
+  "grade": 3,
+  "sc": 9,
+  "on": [
+   "ビ",
+   "ミ"
+  ],
+  "kun": [
+   "うつく.しい"
+  ],
+  "mean": [
+   "beauty",
+   "beautiful"
+  ],
+  "rank": 256
+ },
+ {
+  "k": "命",
+  "freq": 465,
+  "grade": 3,
+  "sc": 8,
+  "on": [
+   "メイ",
+   "ミョウ"
+  ],
+  "kun": [
+   "いのち"
+  ],
+  "mean": [
+   "fate",
+   "command",
+   "decree",
+   "destiny",
+   "life",
+   "appoint"
+  ],
+  "rank": 257
+ },
+ {
+  "k": "福",
+  "freq": 467,
+  "grade": 3,
+  "sc": 13,
+  "on": [
+   "フク"
+  ],
+  "kun": [],
+  "mean": [
+   "blessing",
+   "fortune",
+   "luck",
+   "wealth"
+  ],
+  "rank": 258
+ },
+ {
+  "k": "整",
+  "freq": 478,
+  "grade": 3,
+  "sc": 16,
+  "on": [
+   "セイ"
+  ],
+  "kun": [
+   "ととの.える",
+   "ととの.う"
+  ],
+  "mean": [
+   "organize",
+   "arranging",
+   "tune",
+   "tone",
+   "meter",
+   "key (music)"
+  ],
+  "rank": 259
+ },
+ {
+  "k": "横",
+  "freq": 480,
+  "grade": 3,
+  "sc": 15,
+  "on": [
+   "オウ"
+  ],
+  "kun": [
+   "よこ"
+  ],
+  "mean": [
+   "sideways",
+   "side",
+   "horizontal",
+   "width",
+   "woof",
+   "unreasonable",
+   "perverse"
+  ],
+  "rank": 260
+ },
+ {
+  "k": "白",
+  "freq": 483,
+  "grade": 1,
+  "sc": 5,
+  "on": [
+   "ハク",
+   "ビャク"
+  ],
+  "kun": [
+   "しろ",
+   "しら-",
+   "しろ.い"
+  ],
+  "mean": [
+   "white"
+  ],
+  "rank": 261
+ },
+ {
+  "k": "深",
+  "freq": 484,
+  "grade": 3,
+  "sc": 11,
+  "on": [
+   "シン"
+  ],
+  "kun": [
+   "ふか.い",
+   "-ぶか.い",
+   "ふか.まる",
+   "ふか.める",
+   "み-"
+  ],
+  "mean": [
+   "deep",
+   "heighten",
+   "intensify",
+   "strengthen"
+  ],
+  "rank": 262
+ },
+ {
+  "k": "字",
+  "freq": 485,
+  "grade": 1,
+  "sc": 6,
+  "on": [
+   "ジ"
+  ],
+  "kun": [
+   "あざ",
+   "あざな",
+   "-な"
+  ],
+  "mean": [
+   "character",
+   "letter",
+   "word",
+   "section of village"
+  ],
+  "rank": 263
+ },
+ {
+  "k": "答",
+  "freq": 486,
+  "grade": 2,
+  "sc": 12,
+  "on": [
+   "トウ"
+  ],
+  "kun": [
+   "こた.える",
+   "こた.え"
+  ],
+  "mean": [
+   "solution",
+   "answer"
+  ],
+  "rank": 264
+ },
+ {
+  "k": "夜",
+  "freq": 487,
+  "grade": 2,
+  "sc": 8,
+  "on": [
+   "ヤ"
+  ],
+  "kun": [
+   "よ",
+   "よる"
+  ],
+  "mean": [
+   "night",
+   "evening"
+  ],
+  "rank": 265
+ },
+ {
+  "k": "音",
+  "freq": 491,
+  "grade": 1,
+  "sc": 9,
+  "on": [
+   "オン",
+   "イン",
+   "-ノン"
+  ],
+  "kun": [
+   "おと",
+   "ね"
+  ],
+  "mean": [
+   "sound",
+   "noise"
+  ],
+  "rank": 266
+ },
+ {
+  "k": "申",
+  "freq": 492,
+  "grade": 3,
+  "sc": 5,
+  "on": [
+   "シン"
+  ],
+  "kun": [
+   "もう.す",
+   "もう.し-",
+   "さる"
+  ],
+  "mean": [
+   "have the honor to",
+   "sign of the monkey",
+   "3-5PM",
+   "ninth sign of Chinese zodiac"
+  ],
+  "rank": 267
+ },
+ {
+  "k": "様",
+  "freq": 493,
+  "grade": 3,
+  "sc": 14,
+  "on": [
+   "ヨウ",
+   "ショウ"
+  ],
+  "kun": [
+   "さま",
+   "さん"
+  ],
+  "mean": [
+   "Esq.",
+   "way",
+   "manner",
+   "situation",
+   "polite suffix"
+  ],
+  "rank": 268
+ },
+ {
+  "k": "港",
+  "freq": 495,
+  "grade": 3,
+  "sc": 12,
+  "on": [
+   "コウ"
+  ],
+  "kun": [
+   "みなと"
+  ],
+  "mean": [
+   "harbor"
+  ],
+  "rank": 269
+ },
+ {
+  "k": "注",
+  "freq": 497,
+  "grade": 3,
+  "sc": 8,
+  "on": [
+   "チュウ"
+  ],
+  "kun": [
+   "そそ.ぐ",
+   "さ.す",
+   "つ.ぐ"
+  ],
+  "mean": [
+   "pour",
+   "irrigate",
+   "shed (tears)",
+   "flow into",
+   "concentrate on",
+   "notes",
+   "comment",
+   "annotate"
+  ],
+  "rank": 270
+ },
+ {
+  "k": "帰",
+  "freq": 504,
+  "grade": 2,
+  "sc": 10,
+  "on": [
+   "キ"
+  ],
+  "kun": [
+   "かえ.る",
+   "かえ.す",
+   "おく.る",
+   "とつ.ぐ"
+  ],
+  "mean": [
+   "homecoming",
+   "arrive at",
+   "lead to",
+   "result in"
+  ],
+  "rank": 271
+ },
+ {
+  "k": "谷",
+  "freq": 508,
+  "grade": 2,
+  "sc": 7,
+  "on": [
+   "コク"
+  ],
+  "kun": [
+   "たに",
+   "きわ.まる"
+  ],
+  "mean": [
+   "valley"
+  ],
+  "rank": 272
+ },
+ {
+  "k": "古",
+  "freq": 509,
+  "grade": 2,
+  "sc": 5,
+  "on": [
+   "コ"
+  ],
+  "kun": [
+   "ふる.い",
+   "ふる-",
+   "-ふる.す"
+  ],
+  "mean": [
+   "old"
+  ],
+  "rank": 273
+ },
+ {
+  "k": "天",
+  "freq": 512,
+  "grade": 1,
+  "sc": 4,
+  "on": [
+   "テン"
+  ],
+  "kun": [
+   "あまつ",
+   "あめ",
+   "あま-"
+  ],
+  "mean": [
+   "heavens",
+   "sky",
+   "imperial"
+  ],
+  "rank": 274
+ },
+ {
+  "k": "階",
+  "freq": 513,
+  "grade": 3,
+  "sc": 12,
+  "on": [
+   "カイ"
+  ],
+  "kun": [
+   "きざはし"
+  ],
+  "mean": [
+   "storey",
+   "stair",
+   "counter for storeys of a building"
+  ],
+  "rank": 275
+ },
+ {
+  "k": "歌",
+  "freq": 519,
+  "grade": 2,
+  "sc": 14,
+  "on": [
+   "カ"
+  ],
+  "kun": [
+   "うた",
+   "うた.う"
+  ],
+  "mean": [
+   "song",
+   "sing"
+  ],
+  "rank": 276
+ },
+ {
+  "k": "買",
+  "freq": 520,
+  "grade": 2,
+  "sc": 12,
+  "on": [
+   "バイ"
+  ],
+  "kun": [
+   "か.う"
+  ],
+  "mean": [
+   "buy"
+  ],
+  "rank": 277
+ },
+ {
+  "k": "光",
+  "freq": 527,
+  "grade": 2,
+  "sc": 6,
+  "on": [
+   "コウ"
+  ],
+  "kun": [
+   "ひか.る",
+   "ひかり"
+  ],
+  "mean": [
+   "ray",
+   "light"
+  ],
+  "rank": 278
+ },
+ {
+  "k": "路",
+  "freq": 529,
+  "grade": 3,
+  "sc": 13,
+  "on": [
+   "ロ",
+   "ル"
+  ],
+  "kun": [
+   "-じ",
+   "みち"
+  ],
+  "mean": [
+   "path",
+   "route",
+   "road",
+   "distance"
+  ],
+  "rank": 279
+ },
+ {
+  "k": "悪",
+  "freq": 530,
+  "grade": 3,
+  "sc": 11,
+  "on": [
+   "アク",
+   "オ"
+  ],
+  "kun": [
+   "わる.い",
+   "わる-",
+   "あ.し",
+   "にく.い",
+   "-にく.い",
+   "ああ",
+   "いずくに",
+   "いずくんぞ",
+   "にく.む"
+  ],
+  "mean": [
+   "bad",
+   "vice",
+   "rascal",
+   "false",
+   "evil",
+   "wrong"
+  ],
+  "rank": 280
+ },
+ {
+  "k": "科",
+  "freq": 531,
+  "grade": 2,
+  "sc": 9,
+  "on": [
+   "カ"
+  ],
+  "kun": [],
+  "mean": [
+   "department",
+   "course",
+   "section"
+  ],
+  "rank": 281
+ },
+ {
+  "k": "細",
+  "freq": 537,
+  "grade": 2,
+  "sc": 11,
+  "on": [
+   "サイ"
+  ],
+  "kun": [
+   "ほそ.い",
+   "ほそ.る",
+   "こま.か",
+   "こま.かい"
+  ],
+  "mean": [
+   "dainty",
+   "get thin",
+   "taper",
+   "slender",
+   "narrow",
+   "detailed",
+   "precise"
+  ],
+  "rank": 282
+ },
+ {
+  "k": "図",
+  "freq": 539,
+  "grade": 2,
+  "sc": 7,
+  "on": [
+   "ズ",
+   "ト"
+  ],
+  "kun": [
+   "え",
+   "はか.る"
+  ],
+  "mean": [
+   "map",
+   "drawing",
+   "plan",
+   "extraordinary",
+   "audacious"
+  ],
+  "rank": 283
+ },
+ {
+  "k": "週",
+  "freq": 540,
+  "grade": 2,
+  "sc": 11,
+  "on": [
+   "シュウ"
+  ],
+  "kun": [],
+  "mean": [
+   "week"
+  ],
+  "rank": 284
+ },
+ {
+  "k": "丸",
+  "freq": 542,
+  "grade": 2,
+  "sc": 3,
+  "on": [
+   "ガン"
+  ],
+  "kun": [
+   "まる",
+   "まる.める",
+   "まる.い"
+  ],
+  "mean": [
+   "round",
+   "full (month)",
+   "perfection",
+   "-ship",
+   "pills",
+   "make round",
+   "roll up",
+   "curl up",
+   "seduce",
+   "explain away"
+  ],
+  "rank": 285
+ },
+ {
+  "k": "他",
+  "freq": 543,
+  "grade": 3,
+  "sc": 5,
+  "on": [
+   "タ"
+  ],
+  "kun": [
+   "ほか"
+  ],
+  "mean": [
+   "other",
+   "another",
+   "the others"
+  ],
+  "rank": 286
+ },
+ {
+  "k": "室",
+  "freq": 550,
+  "grade": 2,
+  "sc": 9,
+  "on": [
+   "シツ"
+  ],
+  "kun": [
+   "むろ"
+  ],
+  "mean": [
+   "room",
+   "apartment",
+   "chamber",
+   "greenhouse",
+   "cellar"
+  ],
+  "rank": 287
+ },
+ {
+  "k": "太",
+  "freq": 552,
+  "grade": 2,
+  "sc": 4,
+  "on": [
+   "タイ",
+   "タ"
+  ],
+  "kun": [
+   "ふと.い",
+   "ふと.る"
+  ],
+  "mean": [
+   "plump",
+   "thick",
+   "big around"
+  ],
+  "rank": 288
+ },
+ {
+  "k": "橋",
+  "freq": 553,
+  "grade": 3,
+  "sc": 16,
+  "on": [
+   "キョウ"
+  ],
+  "kun": [
+   "はし"
+  ],
+  "mean": [
+   "bridge"
+  ],
+  "rank": 289
+ },
+ {
+  "k": "歩",
+  "freq": 554,
+  "grade": 2,
+  "sc": 8,
+  "on": [
+   "ホ",
+   "ブ",
+   "フ"
+  ],
+  "kun": [
+   "ある.く",
+   "あゆ.む"
+  ],
+  "mean": [
+   "walk",
+   "counter for steps"
+  ],
+  "rank": 290
+ },
+ {
+  "k": "岸",
+  "freq": 556,
+  "grade": 3,
+  "sc": 8,
+  "on": [
+   "ガン"
+  ],
+  "kun": [
+   "きし"
+  ],
+  "mean": [
+   "beach"
+  ],
+  "rank": 291
+ },
+ {
+  "k": "客",
+  "freq": 557,
+  "grade": 3,
+  "sc": 9,
+  "on": [
+   "キャク",
+   "カク"
+  ],
+  "kun": [],
+  "mean": [
+   "guest",
+   "visitor",
+   "customer",
+   "client"
+  ],
+  "rank": 292
+ },
+ {
+  "k": "風",
+  "freq": 558,
+  "grade": 2,
+  "sc": 9,
+  "on": [
+   "フウ",
+   "フ"
+  ],
+  "kun": [
+   "かぜ",
+   "かざ-"
+  ],
+  "mean": [
+   "wind",
+   "air",
+   "style",
+   "manner"
+  ],
+  "rank": 293
+ },
+ {
+  "k": "紙",
+  "freq": 559,
+  "grade": 2,
+  "sc": 10,
+  "on": [
+   "シ"
+  ],
+  "kun": [
+   "かみ"
+  ],
+  "mean": [
+   "paper"
+  ],
+  "rank": 294
+ },
+ {
+  "k": "登",
+  "freq": 566,
+  "grade": 3,
+  "sc": 12,
+  "on": [
+   "トウ",
+   "ト",
+   "ドウ",
+   "ショウ",
+   "チョウ"
+  ],
+  "kun": [
+   "のぼ.る",
+   "あ.がる"
+  ],
+  "mean": [
+   "ascend",
+   "climb up"
+  ],
+  "rank": 295
+ },
+ {
+  "k": "母",
+  "freq": 570,
+  "grade": 2,
+  "sc": 5,
+  "on": [
+   "ボ"
+  ],
+  "kun": [
+   "はは",
+   "も"
+  ],
+  "mean": [
+   "mother"
+  ],
+  "rank": 296
+ },
+ {
+  "k": "黒",
+  "freq": 573,
+  "grade": 2,
+  "sc": 11,
+  "on": [
+   "コク"
+  ],
+  "kun": [
+   "くろ",
+   "くろ.ずむ",
+   "くろ.い"
+  ],
+  "mean": [
+   "black"
+  ],
+  "rank": 297
+ },
+ {
+  "k": "火",
+  "freq": 574,
+  "grade": 1,
+  "sc": 4,
+  "on": [
+   "カ"
+  ],
+  "kun": [
+   "ひ",
+   "-び",
+   "ほ-"
+  ],
+  "mean": [
+   "fire"
+  ],
+  "rank": 298
+ },
+ {
+  "k": "戸",
+  "freq": 575,
+  "grade": 2,
+  "sc": 4,
+  "on": [
+   "コ"
+  ],
+  "kun": [
+   "と"
+  ],
+  "mean": [
+   "door",
+   "counter for houses",
+   "door radical (no. 63)"
+  ],
+  "rank": 299
+ },
+ {
+  "k": "速",
+  "freq": 576,
+  "grade": 3,
+  "sc": 10,
+  "on": [
+   "ソク"
+  ],
+  "kun": [
+   "はや.い",
+   "はや-",
+   "はや.める",
+   "すみ.やか"
+  ],
+  "mean": [
+   "quick",
+   "fast"
+  ],
+  "rank": 300
+ },
+ {
+  "k": "花",
+  "freq": 578,
+  "grade": 1,
+  "sc": 7,
+  "on": [
+   "カ",
+   "ケ"
+  ],
+  "kun": [
+   "はな"
+  ],
+  "mean": [
+   "flower"
+  ],
+  "rank": 301
+ },
+ {
+  "k": "春",
+  "freq": 579,
+  "grade": 2,
+  "sc": 9,
+  "on": [
+   "シュン"
+  ],
+  "kun": [
+   "はる"
+  ],
+  "mean": [
+   "springtime",
+   "spring (season)"
+  ],
+  "rank": 302
+ },
+ {
+  "k": "央",
+  "freq": 582,
+  "grade": 3,
+  "sc": 5,
+  "on": [
+   "オウ"
+  ],
+  "kun": [],
+  "mean": [
+   "center",
+   "middle"
+  ],
+  "rank": 303
+ },
+ {
+  "k": "赤",
+  "freq": 584,
+  "grade": 1,
+  "sc": 7,
+  "on": [
+   "セキ",
+   "シャク"
+  ],
+  "kun": [
+   "あか",
+   "あか-",
+   "あか.い",
+   "あか.らむ",
+   "あか.らめる"
+  ],
+  "mean": [
+   "red"
+  ],
+  "rank": 304
+ },
+ {
+  "k": "号",
+  "freq": 585,
+  "grade": 3,
+  "sc": 5,
+  "on": [
+   "ゴウ"
+  ],
+  "kun": [
+   "さけ.ぶ",
+   "よびな"
+  ],
+  "mean": [
+   "nickname",
+   "number",
+   "item",
+   "title",
+   "pseudonym",
+   "name",
+   "call"
+  ],
+  "rank": 305
+ },
+ {
+  "k": "青",
+  "freq": 589,
+  "grade": 1,
+  "sc": 8,
+  "on": [
+   "セイ",
+   "ショウ"
+  ],
+  "kun": [
+   "あお",
+   "あお-",
+   "あお.い"
+  ],
+  "mean": [
+   "blue",
+   "green"
+  ],
+  "rank": 306
+ },
+ {
+  "k": "竹",
+  "freq": 593,
+  "grade": 1,
+  "sc": 6,
+  "on": [
+   "チク"
+  ],
+  "kun": [
+   "たけ"
+  ],
+  "mean": [
+   "bamboo"
+  ],
+  "rank": 307
+ },
+ {
+  "k": "右",
+  "freq": 602,
+  "grade": 1,
+  "sc": 5,
+  "on": [
+   "ウ",
+   "ユウ"
+  ],
+  "kun": [
+   "みぎ"
+  ],
+  "mean": [
+   "right"
+  ],
+  "rank": 308
+ },
+ {
+  "k": "森",
+  "freq": 609,
+  "grade": 1,
+  "sc": 12,
+  "on": [
+   "シン"
+  ],
+  "kun": [
+   "もり"
+  ],
+  "mean": [
+   "forest",
+   "woods"
+  ],
+  "rank": 309
+ },
+ {
+  "k": "館",
+  "freq": 613,
+  "grade": 3,
+  "sc": 16,
+  "on": [
+   "カン"
+  ],
+  "kun": [
+   "やかた",
+   "たて"
+  ],
+  "mean": [
+   "building",
+   "mansion",
+   "large building",
+   "palace"
+  ],
+  "rank": 310
+ },
+ {
+  "k": "屋",
+  "freq": 616,
+  "grade": 3,
+  "sc": 9,
+  "on": [
+   "オク"
+  ],
+  "kun": [
+   "や"
+  ],
+  "mean": [
+   "roof",
+   "house",
+   "shop",
+   "dealer",
+   "seller"
+  ],
+  "rank": 311
+ },
+ {
+  "k": "読",
+  "freq": 618,
+  "grade": 2,
+  "sc": 14,
+  "on": [
+   "ドク",
+   "トク",
+   "トウ"
+  ],
+  "kun": [
+   "よ.む",
+   "-よ.み"
+  ],
+  "mean": [
+   "read"
+  ],
+  "rank": 312
+ },
+ {
+  "k": "根",
+  "freq": 620,
+  "grade": 3,
+  "sc": 10,
+  "on": [
+   "コン"
+  ],
+  "kun": [
+   "ね",
+   "-ね"
+  ],
+  "mean": [
+   "root",
+   "radical",
+   "head (pimple)"
+  ],
+  "rank": 313
+ },
+ {
+  "k": "色",
+  "freq": 621,
+  "grade": 2,
+  "sc": 6,
+  "on": [
+   "ショク",
+   "シキ"
+  ],
+  "kun": [
+   "いろ"
+  ],
+  "mean": [
+   "color"
+  ],
+  "rank": 314
+ },
+ {
+  "k": "友",
+  "freq": 622,
+  "grade": 2,
+  "sc": 4,
+  "on": [
+   "ユウ"
+  ],
+  "kun": [
+   "とも"
+  ],
+  "mean": [
+   "friend"
+  ],
+  "rank": 315
+ },
+ {
+  "k": "苦",
+  "freq": 623,
+  "grade": 3,
+  "sc": 8,
+  "on": [
+   "ク"
+  ],
+  "kun": [
+   "くる.しい",
+   "-ぐる.しい",
+   "くる.しむ",
+   "くる.しめる",
+   "にが.い",
+   "にが.る"
+  ],
+  "mean": [
+   "suffering",
+   "trial",
+   "worry",
+   "hardship",
+   "feel bitter",
+   "scowl"
+  ],
+  "rank": 316
+ },
+ {
+  "k": "走",
+  "freq": 626,
+  "grade": 2,
+  "sc": 7,
+  "on": [
+   "ソウ"
+  ],
+  "kun": [
+   "はし.る"
+  ],
+  "mean": [
+   "run"
+  ],
+  "rank": 317
+ },
+ {
+  "k": "園",
+  "freq": 628,
+  "grade": 2,
+  "sc": 13,
+  "on": [
+   "エン"
+  ],
+  "kun": [
+   "その"
+  ],
+  "mean": [
+   "park",
+   "garden",
+   "yard",
+   "farm"
+  ],
+  "rank": 318
+ },
+ {
+  "k": "具",
+  "freq": 629,
+  "grade": 3,
+  "sc": 8,
+  "on": [
+   "グ"
+  ],
+  "kun": [
+   "そな.える",
+   "つぶさ.に"
+  ],
+  "mean": [
+   "tool",
+   "utensil",
+   "means",
+   "possess",
+   "ingredients",
+   "counter for armor, suits, sets of furniture"
+  ],
+  "rank": 319
+ },
+ {
+  "k": "左",
+  "freq": 630,
+  "grade": 1,
+  "sc": 5,
+  "on": [
+   "サ",
+   "シャ"
+  ],
+  "kun": [
+   "ひだり"
+  ],
+  "mean": [
+   "left"
+  ],
+  "rank": 320
+ },
+ {
+  "k": "秋",
+  "freq": 635,
+  "grade": 2,
+  "sc": 9,
+  "on": [
+   "シュウ"
+  ],
+  "kun": [
+   "あき",
+   "とき"
+  ],
+  "mean": [
+   "autumn"
+  ],
+  "rank": 321
+ },
+ {
+  "k": "馬",
+  "freq": 639,
+  "grade": 2,
+  "sc": 10,
+  "on": [
+   "バ",
+   "メ",
+   "マ",
+   "ボ",
+   "モ"
+  ],
+  "kun": [
+   "うま",
+   "ま"
+  ],
+  "mean": [
+   "horse"
+  ],
+  "rank": 322
+ },
+ {
+  "k": "休",
+  "freq": 642,
+  "grade": 1,
+  "sc": 6,
+  "on": [
+   "キュウ"
+  ],
+  "kun": [
+   "やす.む",
+   "やす.まる",
+   "やす.める"
+  ],
+  "mean": [
+   "rest",
+   "day off",
+   "retire",
+   "sleep"
+  ],
+  "rank": 323
+ },
+ {
+  "k": "父",
+  "freq": 646,
+  "grade": 2,
+  "sc": 4,
+  "on": [
+   "フ"
+  ],
+  "kun": [
+   "ちち"
+  ],
+  "mean": [
+   "father"
+  ],
+  "rank": 324
+ },
+ {
+  "k": "林",
+  "freq": 656,
+  "grade": 1,
+  "sc": 8,
+  "on": [
+   "リン"
+  ],
+  "kun": [
+   "はやし"
+  ],
+  "mean": [
+   "grove",
+   "forest"
+  ],
+  "rank": 325
+ },
+ {
+  "k": "夏",
+  "freq": 659,
+  "grade": 2,
+  "sc": 10,
+  "on": [
+   "カ",
+   "ガ",
+   "ゲ"
+  ],
+  "kun": [
+   "なつ"
+  ],
+  "mean": [
+   "summer"
+  ],
+  "rank": 326
+ },
+ {
+  "k": "鉄",
+  "freq": 672,
+  "grade": 3,
+  "sc": 13,
+  "on": [
+   "テツ"
+  ],
+  "kun": [
+   "くろがね"
+  ],
+  "mean": [
+   "iron"
+  ],
+  "rank": 327
+ },
+ {
+  "k": "顔",
+  "freq": 676,
+  "grade": 2,
+  "sc": 18,
+  "on": [
+   "ガン"
+  ],
+  "kun": [
+   "かお"
+  ],
+  "mean": [
+   "face",
+   "expression"
+  ],
+  "rank": 328
+ },
+ {
+  "k": "王",
+  "freq": 684,
+  "grade": 1,
+  "sc": 4,
+  "on": [
+   "オウ",
+   "-ノウ"
+  ],
+  "kun": [],
+  "mean": [
+   "king",
+   "rule",
+   "magnate"
+  ],
+  "rank": 329
+ },
+ {
+  "k": "返",
+  "freq": 685,
+  "grade": 3,
+  "sc": 7,
+  "on": [
+   "ヘン"
+  ],
+  "kun": [
+   "かえ.す",
+   "-かえ.す",
+   "かえ.る",
+   "-かえ.る"
+  ],
+  "mean": [
+   "return",
+   "answer",
+   "fade",
+   "repay"
+  ],
+  "rank": 330
+ },
+ {
+  "k": "短",
+  "freq": 689,
+  "grade": 3,
+  "sc": 12,
+  "on": [
+   "タン"
+  ],
+  "kun": [
+   "みじか.い"
+  ],
+  "mean": [
+   "short",
+   "brevity",
+   "fault",
+   "defect",
+   "weak point"
+  ],
+  "rank": 331
+ },
+ {
+  "k": "油",
+  "freq": 690,
+  "grade": 3,
+  "sc": 8,
+  "on": [
+   "ユ",
+   "ユウ"
+  ],
+  "kun": [
+   "あぶら"
+  ],
+  "mean": [
+   "oil",
+   "fat"
+  ],
+  "rank": 332
+ },
+ {
+  "k": "昭",
+  "freq": 697,
+  "grade": 3,
+  "sc": 9,
+  "on": [
+   "ショウ"
+  ],
+  "kun": [],
+  "mean": [
+   "shining",
+   "bright"
+  ],
+  "rank": 333
+ },
+ {
+  "k": "植",
+  "freq": 699,
+  "grade": 3,
+  "sc": 12,
+  "on": [
+   "ショク"
+  ],
+  "kun": [
+   "う.える",
+   "う.わる"
+  ],
+  "mean": [
+   "plant"
+  ],
+  "rank": 334
+ },
+ {
+  "k": "宿",
+  "freq": 701,
+  "grade": 3,
+  "sc": 11,
+  "on": [
+   "シュク"
+  ],
+  "kun": [
+   "やど",
+   "やど.る",
+   "やど.す"
+  ],
+  "mean": [
+   "inn",
+   "lodging",
+   "relay station",
+   "dwell",
+   "lodge",
+   "be pregnant",
+   "home",
+   "dwelling"
+  ],
+  "rank": 335
+ },
+ {
+  "k": "薬",
+  "freq": 702,
+  "grade": 3,
+  "sc": 16,
+  "on": [
+   "ヤク"
+  ],
+  "kun": [
+   "くすり"
+  ],
+  "mean": [
+   "medicine",
+   "chemical",
+   "enamel",
+   "gunpowder",
+   "benefit"
+  ],
+  "rank": 336
+ },
+ {
+  "k": "習",
+  "freq": 706,
+  "grade": 3,
+  "sc": 11,
+  "on": [
+   "シュウ",
+   "ジュ"
+  ],
+  "kun": [
+   "なら.う",
+   "なら.い"
+  ],
+  "mean": [
+   "learn"
+  ],
+  "rank": 337
+ },
+ {
+  "k": "船",
+  "freq": 713,
+  "grade": 2,
+  "sc": 11,
+  "on": [
+   "セン"
+  ],
+  "kun": [
+   "ふね",
+   "ふな-"
+  ],
+  "mean": [
+   "ship",
+   "boat"
+  ],
+  "rank": 338
+ },
+ {
+  "k": "倍",
+  "freq": 714,
+  "grade": 3,
+  "sc": 10,
+  "on": [
+   "バイ"
+  ],
+  "kun": [],
+  "mean": [
+   "double",
+   "twice",
+   "times",
+   "fold"
+  ],
+  "rank": 339
+ },
+ {
+  "k": "駅",
+  "freq": 724,
+  "grade": 3,
+  "sc": 14,
+  "on": [
+   "エキ"
+  ],
+  "kun": [],
+  "mean": [
+   "station"
+  ],
+  "rank": 340
+ },
+ {
+  "k": "玉",
+  "freq": 737,
+  "grade": 1,
+  "sc": 5,
+  "on": [
+   "ギョク"
+  ],
+  "kun": [
+   "たま",
+   "たま-",
+   "-だま"
+  ],
+  "mean": [
+   "jewel",
+   "ball"
+  ],
+  "rank": 341
+ },
+ {
+  "k": "波",
+  "freq": 740,
+  "grade": 3,
+  "sc": 8,
+  "on": [
+   "ハ"
+  ],
+  "kun": [
+   "なみ"
+  ],
+  "mean": [
+   "waves",
+   "billows",
+   "Poland"
+  ],
+  "rank": 342
+ },
+ {
+  "k": "羽",
+  "freq": 748,
+  "grade": 2,
+  "sc": 6,
+  "on": [
+   "ウ"
+  ],
+  "kun": [
+   "は",
+   "わ",
+   "はね"
+  ],
+  "mean": [
+   "feathers",
+   "counter for birds, rabbits"
+  ],
+  "rank": 343
+ },
+ {
+  "k": "洋",
+  "freq": 763,
+  "grade": 3,
+  "sc": 9,
+  "on": [
+   "ヨウ"
+  ],
+  "kun": [],
+  "mean": [
+   "ocean",
+   "sea",
+   "foreign",
+   "Western style"
+  ],
+  "rank": 344
+ },
+ {
+  "k": "旅",
+  "freq": 783,
+  "grade": 3,
+  "sc": 10,
+  "on": [
+   "リョ"
+  ],
+  "kun": [
+   "たび"
+  ],
+  "mean": [
+   "trip",
+   "travel"
+  ],
+  "rank": 345
+ },
+ {
+  "k": "級",
+  "freq": 785,
+  "grade": 3,
+  "sc": 9,
+  "on": [
+   "キュウ"
+  ],
+  "kun": [],
+  "mean": [
+   "class",
+   "rank",
+   "grade"
+  ],
+  "rank": 346
+ },
+ {
+  "k": "幸",
+  "freq": 786,
+  "grade": 3,
+  "sc": 8,
+  "on": [
+   "コウ"
+  ],
+  "kun": [
+   "さいわ.い",
+   "さち",
+   "しあわ.せ"
+  ],
+  "mean": [
+   "happiness",
+   "blessing",
+   "fortune"
+  ],
+  "rank": 347
+ },
+ {
+  "k": "岩",
+  "freq": 787,
+  "grade": 2,
+  "sc": 8,
+  "on": [
+   "ガン"
+  ],
+  "kun": [
+   "いわ"
+  ],
+  "mean": [
+   "boulder",
+   "rock",
+   "cliff"
+  ],
+  "rank": 348
+ },
+ {
+  "k": "練",
+  "freq": 788,
+  "grade": 3,
+  "sc": 14,
+  "on": [
+   "レン"
+  ],
+  "kun": [
+   "ね.る",
+   "ね.り"
+  ],
+  "mean": [
+   "practice",
+   "gloss",
+   "train",
+   "drill",
+   "polish",
+   "refine"
+  ],
+  "rank": 349
+ },
+ {
+  "k": "軽",
+  "freq": 790,
+  "grade": 3,
+  "sc": 12,
+  "on": [
+   "ケイ",
+   "キョウ",
+   "キン"
+  ],
+  "kun": [
+   "かる.い",
+   "かろ.やか",
+   "かろ.んじる"
+  ],
+  "mean": [
+   "lightly",
+   "trifling",
+   "unimportant"
+  ],
+  "rank": 350
+ },
+ {
+  "k": "等",
+  "freq": 798,
+  "grade": 3,
+  "sc": 12,
+  "on": [
+   "トウ"
+  ],
+  "kun": [
+   "ひと.しい",
+   "など",
+   "-ら"
+  ],
+  "mean": [
+   "etc.",
+   "and so forth",
+   "class (first)",
+   "quality",
+   "equal",
+   "similar"
+  ],
+  "rank": 351
+ },
+ {
+  "k": "角",
+  "freq": 805,
+  "grade": 2,
+  "sc": 7,
+  "on": [
+   "カク"
+  ],
+  "kun": [
+   "かど",
+   "つの"
+  ],
+  "mean": [
+   "angle",
+   "corner",
+   "square",
+   "horn",
+   "antlers"
+  ],
+  "rank": 352
+ },
+ {
+  "k": "曲",
+  "freq": 810,
+  "grade": 3,
+  "sc": 6,
+  "on": [
+   "キョク"
+  ],
+  "kun": [
+   "ま.がる",
+   "ま.げる",
+   "くま"
+  ],
+  "mean": [
+   "bend",
+   "music",
+   "melody",
+   "composition",
+   "pleasure",
+   "injustice",
+   "fault",
+   "curve",
+   "crooked",
+   "perverse",
+   "lean"
+  ],
+  "rank": 353
+ },
+ {
+  "k": "庭",
+  "freq": 816,
+  "grade": 3,
+  "sc": 10,
+  "on": [
+   "テイ"
+  ],
+  "kun": [
+   "にわ"
+  ],
+  "mean": [
+   "courtyard",
+   "garden",
+   "yard"
+  ],
+  "rank": 354
+ },
+ {
+  "k": "池",
+  "freq": 827,
+  "grade": 2,
+  "sc": 6,
+  "on": [
+   "チ"
+  ],
+  "kun": [
+   "いけ"
+  ],
+  "mean": [
+   "pond",
+   "cistern",
+   "pool",
+   "reservoir"
+  ],
+  "rank": 355
+ },
+ {
+  "k": "血",
+  "freq": 832,
+  "grade": 3,
+  "sc": 6,
+  "on": [
+   "ケツ"
+  ],
+  "kun": [
+   "ち"
+  ],
+  "mean": [
+   "blood"
+  ],
+  "rank": 356
+ },
+ {
+  "k": "温",
+  "freq": 838,
+  "grade": 3,
+  "sc": 12,
+  "on": [
+   "オン"
+  ],
+  "kun": [
+   "あたた.か",
+   "あたた.かい",
+   "あたた.まる",
+   "あたた.める",
+   "ぬく"
+  ],
+  "mean": [
+   "warm"
+  ],
+  "rank": 357
+ },
+ {
+  "k": "星",
+  "freq": 844,
+  "grade": 2,
+  "sc": 9,
+  "on": [
+   "セイ",
+   "ショウ"
+  ],
+  "kun": [
+   "ほし",
+   "-ぼし"
+  ],
+  "mean": [
+   "star",
+   "spot",
+   "dot",
+   "mark"
+  ],
+  "rank": 358
+ },
+ {
+  "k": "庫",
+  "freq": 852,
+  "grade": 3,
+  "sc": 10,
+  "on": [
+   "コ",
+   "ク"
+  ],
+  "kun": [
+   "くら"
+  ],
+  "mean": [
+   "warehouse",
+   "storehouse"
+  ],
+  "rank": 359
+ },
+ {
+  "k": "坂",
+  "freq": 865,
+  "grade": 3,
+  "sc": 7,
+  "on": [
+   "ハン"
+  ],
+  "kun": [
+   "さか"
+  ],
+  "mean": [
+   "slope",
+   "incline",
+   "hill"
+  ],
+  "rank": 360
+ },
+ {
+  "k": "服",
+  "freq": 873,
+  "grade": 3,
+  "sc": 8,
+  "on": [
+   "フク"
+  ],
+  "kun": [],
+  "mean": [
+   "clothing",
+   "admit",
+   "obey",
+   "discharge"
+  ],
+  "rank": 361
+ },
+ {
+  "k": "寺",
+  "freq": 879,
+  "grade": 2,
+  "sc": 6,
+  "on": [
+   "ジ"
+  ],
+  "kun": [
+   "てら"
+  ],
+  "mean": [
+   "Buddhist temple"
+  ],
+  "rank": 362
+ },
+ {
+  "k": "息",
+  "freq": 882,
+  "grade": 3,
+  "sc": 10,
+  "on": [
+   "ソク"
+  ],
+  "kun": [
+   "いき"
+  ],
+  "mean": [
+   "breath",
+   "respiration",
+   "son",
+   "interest (on money)",
+   "rest",
+   "coming to an end"
+  ],
+  "rank": 363
+ },
+ {
+  "k": "遠",
+  "freq": 887,
+  "grade": 2,
+  "sc": 13,
+  "on": [
+   "エン",
+   "オン"
+  ],
+  "kun": [
+   "とお.い"
+  ],
+  "mean": [
+   "distant",
+   "far"
+  ],
+  "rank": 364
+ },
+ {
+  "k": "絵",
+  "freq": 895,
+  "grade": 2,
+  "sc": 12,
+  "on": [
+   "カイ",
+   "エ"
+  ],
+  "kun": [],
+  "mean": [
+   "picture",
+   "drawing",
+   "painting",
+   "sketch"
+  ],
+  "rank": 365
+ },
+ {
+  "k": "夕",
+  "freq": 924,
+  "grade": 1,
+  "sc": 3,
+  "on": [
+   "セキ"
+  ],
+  "kun": [
+   "ゆう"
+  ],
+  "mean": [
+   "evening"
+  ],
+  "rank": 366
+ },
+ {
+  "k": "板",
+  "freq": 926,
+  "grade": 3,
+  "sc": 8,
+  "on": [
+   "ハン",
+   "バン"
+  ],
+  "kun": [
+   "いた"
+  ],
+  "mean": [
+   "plank",
+   "board",
+   "plate",
+   "stage"
+  ],
+  "rank": 367
+ },
+ {
+  "k": "列",
+  "freq": 927,
+  "grade": 3,
+  "sc": 6,
+  "on": [
+   "レツ",
+   "レ"
+  ],
+  "kun": [],
+  "mean": [
+   "file",
+   "row",
+   "rank",
+   "tier",
+   "column"
+  ],
+  "rank": 368
+ },
+ {
+  "k": "曜",
+  "freq": 940,
+  "grade": 2,
+  "sc": 18,
+  "on": [
+   "ヨウ"
+  ],
+  "kun": [],
+  "mean": [
+   "weekday"
+  ],
+  "rank": 369
+ },
+ {
+  "k": "遊",
+  "freq": 941,
+  "grade": 3,
+  "sc": 12,
+  "on": [
+   "ユウ",
+   "ユ"
+  ],
+  "kun": [
+   "あそ.ぶ",
+   "あそ.ばす"
+  ],
+  "mean": [
+   "play"
+  ],
+  "rank": 370
+ },
+ {
+  "k": "君",
+  "freq": 947,
+  "grade": 3,
+  "sc": 7,
+  "on": [
+   "クン"
+  ],
+  "kun": [
+   "きみ",
+   "-ぎみ"
+  ],
+  "mean": [
+   "mister",
+   "you",
+   "ruler",
+   "male name suffix"
+  ],
+  "rank": 371
+ },
+ {
+  "k": "雨",
+  "freq": 950,
+  "grade": 1,
+  "sc": 8,
+  "on": [
+   "ウ"
+  ],
+  "kun": [
+   "あめ",
+   "あま-",
+   "-さめ"
+  ],
+  "mean": [
+   "rain"
+  ],
+  "rank": 372
+ },
+ {
+  "k": "弱",
+  "freq": 958,
+  "grade": 2,
+  "sc": 10,
+  "on": [
+   "ジャク"
+  ],
+  "kun": [
+   "よわ.い",
+   "よわ.る",
+   "よわ.まる",
+   "よわ.める"
+  ],
+  "mean": [
+   "weak",
+   "frail"
+  ],
+  "rank": 373
+ },
+ {
+  "k": "草",
+  "freq": 967,
+  "grade": 1,
+  "sc": 9,
+  "on": [
+   "ソウ"
+  ],
+  "kun": [
+   "くさ",
+   "くさ-",
+   "-ぐさ"
+  ],
+  "mean": [
+   "grass",
+   "weeds",
+   "herbs",
+   "pasture",
+   "write",
+   "draft"
+  ],
+  "rank": 374
+ },
+ {
+  "k": "飲",
+  "freq": 969,
+  "grade": 3,
+  "sc": 12,
+  "on": [
+   "イン",
+   "オン"
+  ],
+  "kun": [
+   "の.む",
+   "-の.み"
+  ],
+  "mean": [
+   "drink",
+   "smoke",
+   "take"
+  ],
+  "rank": 375
+ },
+ {
+  "k": "肉",
+  "freq": 986,
+  "grade": 2,
+  "sc": 6,
+  "on": [
+   "ニク"
+  ],
+  "kun": [
+   "しし"
+  ],
+  "mean": [
+   "meat"
+  ],
+  "rank": 376
+ },
+ {
+  "k": "章",
+  "freq": 990,
+  "grade": 3,
+  "sc": 11,
+  "on": [
+   "ショウ"
+  ],
+  "kun": [],
+  "mean": [
+   "badge",
+   "chapter",
+   "composition",
+   "poem",
+   "design"
+  ],
+  "rank": 377
+ },
+ {
+  "k": "酒",
+  "freq": 1006,
+  "grade": 3,
+  "sc": 10,
+  "on": [
+   "シュ"
+  ],
+  "kun": [
+   "さけ",
+   "さか-"
+  ],
+  "mean": [
+   "sake",
+   "alcohol"
+  ],
+  "rank": 378
+ },
+ {
+  "k": "悲",
+  "freq": 1014,
+  "grade": 3,
+  "sc": 12,
+  "on": [
+   "ヒ"
+  ],
+  "kun": [
+   "かな.しい",
+   "かな.しむ"
+  ],
+  "mean": [
+   "grieve",
+   "sad",
+   "deplore",
+   "regret"
+  ],
+  "rank": 379
+ },
+ {
+  "k": "秒",
+  "freq": 1015,
+  "grade": 3,
+  "sc": 9,
+  "on": [
+   "ビョウ"
+  ],
+  "kun": [],
+  "mean": [
+   "second (1/60 minute)"
+  ],
+  "rank": 380
+ },
+ {
+  "k": "晴",
+  "freq": 1022,
+  "grade": 2,
+  "sc": 12,
+  "on": [
+   "セイ"
+  ],
+  "kun": [
+   "は.れる",
+   "は.れ",
+   "は.れ-",
+   "-ば.れ",
+   "は.らす"
+  ],
+  "mean": [
+   "clear up"
+  ],
+  "rank": 381
+ },
+ {
+  "k": "暗",
+  "freq": 1040,
+  "grade": 3,
+  "sc": 13,
+  "on": [
+   "アン"
+  ],
+  "kun": [
+   "くら.い",
+   "くら.む",
+   "くれ.る"
+  ],
+  "mean": [
+   "darkness",
+   "disappear",
+   "shade",
+   "informal",
+   "grow dark",
+   "be blinded"
+  ],
+  "rank": 382
+ },
+ {
+  "k": "鳥",
+  "freq": 1043,
+  "grade": 2,
+  "sc": 11,
+  "on": [
+   "チョウ"
+  ],
+  "kun": [
+   "とり"
+  ],
+  "mean": [
+   "bird",
+   "chicken"
+  ],
+  "rank": 383
+ },
+ {
+  "k": "勉",
+  "freq": 1066,
+  "grade": 3,
+  "sc": 10,
+  "on": [
+   "ベン"
+  ],
+  "kun": [
+   "つと.める"
+  ],
+  "mean": [
+   "exertion",
+   "endeavour",
+   "encourage",
+   "strive",
+   "make effort",
+   "diligent"
+  ],
+  "rank": 384
+ },
+ {
+  "k": "陽",
+  "freq": 1071,
+  "grade": 3,
+  "sc": 12,
+  "on": [
+   "ヨウ"
+  ],
+  "kun": [
+   "ひ"
+  ],
+  "mean": [
+   "sunshine",
+   "yang principle",
+   "positive",
+   "male",
+   "heaven",
+   "daytime"
+  ],
+  "rank": 385
+ },
+ {
+  "k": "冬",
+  "freq": 1090,
+  "grade": 2,
+  "sc": 5,
+  "on": [
+   "トウ"
+  ],
+  "kun": [
+   "ふゆ"
+  ],
+  "mean": [
+   "winter"
+  ],
+  "rank": 386
+ },
+ {
+  "k": "皮",
+  "freq": 1092,
+  "grade": 3,
+  "sc": 5,
+  "on": [
+   "ヒ"
+  ],
+  "kun": [
+   "かわ"
+  ],
+  "mean": [
+   "pelt",
+   "skin",
+   "hide",
+   "leather",
+   "skin radical (no. 107)"
+  ],
+  "rank": 387
+ },
+ {
+  "k": "里",
+  "freq": 1096,
+  "grade": 2,
+  "sc": 7,
+  "on": [
+   "リ"
+  ],
+  "kun": [
+   "さと"
+  ],
+  "mean": [
+   "ri",
+   "village",
+   "parent's home",
+   "league"
+  ],
+  "rank": 388
+ },
+ {
+  "k": "歯",
+  "freq": 1106,
+  "grade": 3,
+  "sc": 12,
+  "on": [
+   "シ"
+  ],
+  "kun": [
+   "よわい",
+   "は",
+   "よわ.い",
+   "よわい.する"
+  ],
+  "mean": [
+   "tooth",
+   "cog"
+  ],
+  "rank": 389
+ },
+ {
+  "k": "昼",
+  "freq": 1115,
+  "grade": 2,
+  "sc": 9,
+  "on": [
+   "チュウ"
+  ],
+  "kun": [
+   "ひる"
+  ],
+  "mean": [
+   "daytime",
+   "noon"
+  ],
+  "rank": 390
+ },
+ {
+  "k": "茶",
+  "freq": 1116,
+  "grade": 2,
+  "sc": 9,
+  "on": [
+   "チャ",
+   "サ"
+  ],
+  "kun": [],
+  "mean": [
+   "tea"
+  ],
+  "rank": 391
+ },
+ {
+  "k": "柱",
+  "freq": 1119,
+  "grade": 3,
+  "sc": 9,
+  "on": [
+   "チュウ"
+  ],
+  "kun": [
+   "はしら"
+  ],
+  "mean": [
+   "pillar",
+   "post",
+   "cylinder",
+   "support"
+  ],
+  "rank": 392
+ },
+ {
+  "k": "祭",
+  "freq": 1124,
+  "grade": 3,
+  "sc": 11,
+  "on": [
+   "サイ"
+  ],
+  "kun": [
+   "まつ.る",
+   "まつ.り",
+   "まつり"
+  ],
+  "mean": [
+   "ritual",
+   "offer prayers",
+   "celebrate",
+   "deify",
+   "enshrine",
+   "worship"
+  ],
+  "rank": 393
+ },
+ {
+  "k": "雪",
+  "freq": 1131,
+  "grade": 2,
+  "sc": 11,
+  "on": [
+   "セツ"
+  ],
+  "kun": [
+   "ゆき"
+  ],
+  "mean": [
+   "snow"
+  ],
+  "rank": 394
+ },
+ {
+  "k": "筆",
+  "freq": 1132,
+  "grade": 3,
+  "sc": 12,
+  "on": [
+   "ヒツ"
+  ],
+  "kun": [
+   "ふで"
+  ],
+  "mean": [
+   "writing brush",
+   "writing",
+   "painting brush",
+   "handwriting"
+  ],
+  "rank": 395
+ },
+ {
+  "k": "童",
+  "freq": 1138,
+  "grade": 3,
+  "sc": 12,
+  "on": [
+   "ドウ"
+  ],
+  "kun": [
+   "わらべ"
+  ],
+  "mean": [
+   "juvenile",
+   "child"
+  ],
+  "rank": 396
+ },
+ {
+  "k": "弟",
+  "freq": 1161,
+  "grade": 2,
+  "sc": 7,
+  "on": [
+   "テイ",
+   "ダイ",
+   "デ"
+  ],
+  "kun": [
+   "おとうと"
+  ],
+  "mean": [
+   "younger brother",
+   "faithful service to elders"
+  ],
+  "rank": 397
+ },
+ {
+  "k": "畑",
+  "freq": 1176,
+  "grade": 3,
+  "sc": 9,
+  "on": [],
+  "kun": [
+   "はた",
+   "はたけ",
+   "-ばたけ"
+  ],
+  "mean": [
+   "farm",
+   "field",
+   "garden",
+   "one's specialty",
+   "(kokuji)"
+  ],
+  "rank": 398
+ },
+ {
+  "k": "毛",
+  "freq": 1179,
+  "grade": 2,
+  "sc": 4,
+  "on": [
+   "モウ"
+  ],
+  "kun": [
+   "け"
+  ],
+  "mean": [
+   "fur",
+   "hair",
+   "feather",
+   "down"
+  ],
+  "rank": 399
+ },
+ {
+  "k": "緑",
+  "freq": 1180,
+  "grade": 3,
+  "sc": 14,
+  "on": [
+   "リョク",
+   "ロク"
+  ],
+  "kun": [
+   "みどり"
+  ],
+  "mean": [
+   "green"
+  ],
+  "rank": 400
+ },
+ {
+  "k": "礼",
+  "freq": 1185,
+  "grade": 3,
+  "sc": 5,
+  "on": [
+   "レイ",
+   "ライ"
+  ],
+  "kun": [],
+  "mean": [
+   "salute",
+   "bow",
+   "ceremony",
+   "thanks",
+   "remuneration"
+  ],
+  "rank": 401
+ },
+ {
+  "k": "詩",
+  "freq": 1196,
+  "grade": 3,
+  "sc": 13,
+  "on": [
+   "シ"
+  ],
+  "kun": [
+   "うた"
+  ],
+  "mean": [
+   "poem",
+   "poetry"
+  ],
+  "rank": 402
+ },
+ {
+  "k": "昔",
+  "freq": 1197,
+  "grade": 3,
+  "sc": 8,
+  "on": [
+   "セキ",
+   "シャク"
+  ],
+  "kun": [
+   "むかし"
+  ],
+  "mean": [
+   "once upon a time",
+   "antiquity",
+   "old times"
+  ],
+  "rank": 403
+ },
+ {
+  "k": "牛",
+  "freq": 1202,
+  "grade": 2,
+  "sc": 4,
+  "on": [
+   "ギュウ"
+  ],
+  "kun": [
+   "うし"
+  ],
+  "mean": [
+   "cow"
+  ],
+  "rank": 404
+ },
+ {
+  "k": "魚",
+  "freq": 1208,
+  "grade": 2,
+  "sc": 11,
+  "on": [
+   "ギョ"
+  ],
+  "kun": [
+   "うお",
+   "さかな",
+   "-ざかな"
+  ],
+  "mean": [
+   "fish"
+  ],
+  "rank": 405
+ },
+ {
+  "k": "兄",
+  "freq": 1219,
+  "grade": 2,
+  "sc": 5,
+  "on": [
+   "ケイ",
+   "キョウ"
+  ],
+  "kun": [
+   "あに"
+  ],
+  "mean": [
+   "elder brother",
+   "big brother"
+  ],
+  "rank": 406
+ },
+ {
+  "k": "泳",
+  "freq": 1223,
+  "grade": 3,
+  "sc": 8,
+  "on": [
+   "エイ"
+  ],
+  "kun": [
+   "およ.ぐ"
+  ],
+  "mean": [
+   "swim"
+  ],
+  "rank": 407
+ },
+ {
+  "k": "荷",
+  "freq": 1230,
+  "grade": 3,
+  "sc": 10,
+  "on": [
+   "カ"
+  ],
+  "kun": [
+   "に"
+  ],
+  "mean": [
+   "baggage",
+   "shoulder-pole load",
+   "bear (a burden)",
+   "shoulder (a gun)",
+   "load",
+   "cargo",
+   "freight"
+  ],
+  "rank": 408
+ },
+ {
+  "k": "黄",
+  "freq": 1240,
+  "grade": 2,
+  "sc": 11,
+  "on": [
+   "コウ",
+   "オウ"
+  ],
+  "kun": [
+   "き",
+   "こ-"
+  ],
+  "mean": [
+   "yellow"
+  ],
+  "rank": 409
+ },
+ {
+  "k": "雲",
+  "freq": 1256,
+  "grade": 2,
+  "sc": 12,
+  "on": [
+   "ウン"
+  ],
+  "kun": [
+   "くも",
+   "-ぐも"
+  ],
+  "mean": [
+   "cloud"
+  ],
+  "rank": 410
+ },
+ {
+  "k": "鳴",
+  "freq": 1279,
+  "grade": 2,
+  "sc": 14,
+  "on": [
+   "メイ"
+  ],
+  "kun": [
+   "な.く",
+   "な.る",
+   "な.らす"
+  ],
+  "mean": [
+   "chirp",
+   "cry",
+   "bark",
+   "sound",
+   "ring",
+   "echo",
+   "honk"
+  ],
+  "rank": 411
+ },
+ {
+  "k": "矢",
+  "freq": 1294,
+  "grade": 2,
+  "sc": 5,
+  "on": [
+   "シ"
+  ],
+  "kun": [
+   "や"
+  ],
+  "mean": [
+   "dart",
+   "arrow"
+  ],
+  "rank": 412
+ },
+ {
+  "k": "炭",
+  "freq": 1307,
+  "grade": 3,
+  "sc": 9,
+  "on": [
+   "タン"
+  ],
+  "kun": [
+   "すみ"
+  ],
+  "mean": [
+   "charcoal",
+   "coal"
+  ],
+  "rank": 413
+ },
+ {
+  "k": "丁",
+  "freq": 1312,
+  "grade": 3,
+  "sc": 2,
+  "on": [
+   "チョウ",
+   "テイ",
+   "チン",
+   "トウ",
+   "チ"
+  ],
+  "kun": [
+   "ひのと"
+  ],
+  "mean": [
+   "street",
+   "ward",
+   "town",
+   "counter for guns, tools, leaves or cakes of something",
+   "even number",
+   "4th calendar sign"
+  ],
+  "rank": 414
+ },
+ {
+  "k": "犬",
+  "freq": 1326,
+  "grade": 1,
+  "sc": 4,
+  "on": [
+   "ケン"
+  ],
+  "kun": [
+   "いぬ",
+   "いぬ-"
+  ],
+  "mean": [
+   "dog"
+  ],
+  "rank": 415
+ },
+ {
+  "k": "耳",
+  "freq": 1328,
+  "grade": 1,
+  "sc": 6,
+  "on": [
+   "ジ"
+  ],
+  "kun": [
+   "みみ"
+  ],
+  "mean": [
+   "ear"
+  ],
+  "rank": 416
+ },
+ {
+  "k": "湖",
+  "freq": 1344,
+  "grade": 3,
+  "sc": 12,
+  "on": [
+   "コ"
+  ],
+  "kun": [
+   "みずうみ"
+  ],
+  "mean": [
+   "lake"
+  ],
+  "rank": 417
+ },
+ {
+  "k": "虫",
+  "freq": 1351,
+  "grade": 1,
+  "sc": 6,
+  "on": [
+   "チュウ",
+   "キ"
+  ],
+  "kun": [
+   "むし"
+  ],
+  "mean": [
+   "insect",
+   "bug",
+   "temper"
+  ],
+  "rank": 418
+ },
+ {
+  "k": "湯",
+  "freq": 1356,
+  "grade": 3,
+  "sc": 12,
+  "on": [
+   "トウ"
+  ],
+  "kun": [
+   "ゆ"
+  ],
+  "mean": [
+   "hot water",
+   "bath",
+   "hot spring"
+  ],
+  "rank": 419
+ },
+ {
+  "k": "箱",
+  "freq": 1357,
+  "grade": 3,
+  "sc": 15,
+  "on": [
+   "ソウ"
+  ],
+  "kun": [
+   "はこ"
+  ],
+  "mean": [
+   "box",
+   "chest",
+   "case",
+   "bin",
+   "railway car"
+  ],
+  "rank": 420
+ },
+ {
+  "k": "豆",
+  "freq": 1422,
+  "grade": 3,
+  "sc": 7,
+  "on": [
+   "トウ",
+   "ズ"
+  ],
+  "kun": [
+   "まめ",
+   "まめ-"
+  ],
+  "mean": [
+   "beans",
+   "pea",
+   "midget"
+  ],
+  "rank": 421
+ },
+ {
+  "k": "暑",
+  "freq": 1442,
+  "grade": 3,
+  "sc": 12,
+  "on": [
+   "ショ"
+  ],
+  "kun": [
+   "あつ.い"
+  ],
+  "mean": [
+   "sultry",
+   "hot",
+   "summer heat"
+  ],
+  "rank": 422
+ },
+ {
+  "k": "妹",
+  "freq": 1446,
+  "grade": 2,
+  "sc": 8,
+  "on": [
+   "マイ"
+  ],
+  "kun": [
+   "いもうと"
+  ],
+  "mean": [
+   "younger sister"
+  ],
+  "rank": 423
+ },
+ {
+  "k": "氷",
+  "freq": 1450,
+  "grade": 3,
+  "sc": 5,
+  "on": [
+   "ヒョウ"
+  ],
+  "kun": [
+   "こおり",
+   "ひ",
+   "こお.る"
+  ],
+  "mean": [
+   "icicle",
+   "ice",
+   "hail",
+   "freeze",
+   "congeal"
+  ],
+  "rank": 424
+ },
+ {
+  "k": "寒",
+  "freq": 1456,
+  "grade": 3,
+  "sc": 12,
+  "on": [
+   "カン"
+  ],
+  "kun": [
+   "さむ.い"
+  ],
+  "mean": [
+   "cold"
+  ],
+  "rank": 425
+ },
+ {
+  "k": "帳",
+  "freq": 1459,
+  "grade": 3,
+  "sc": 11,
+  "on": [
+   "チョウ"
+  ],
+  "kun": [
+   "とばり"
+  ],
+  "mean": [
+   "notebook",
+   "account book",
+   "album",
+   "curtain",
+   "veil",
+   "net",
+   "tent"
+  ],
+  "rank": 426
+ },
+ {
+  "k": "姉",
+  "freq": 1473,
+  "grade": 2,
+  "sc": 8,
+  "on": [
+   "シ"
+  ],
+  "kun": [
+   "あね",
+   "はは"
+  ],
+  "mean": [
+   "elder sister"
+  ],
+  "rank": 427
+ },
+ {
+  "k": "拾",
+  "freq": 1479,
+  "grade": 3,
+  "sc": 9,
+  "on": [
+   "シュウ",
+   "ジュウ"
+  ],
+  "kun": [
+   "ひろ.う"
+  ],
+  "mean": [
+   "pick up",
+   "gather",
+   "find",
+   "go on foot",
+   "ten"
+  ],
+  "rank": 428
+ },
+ {
+  "k": "漢",
+  "freq": 1487,
+  "grade": 3,
+  "sc": 13,
+  "on": [
+   "カン"
+  ],
+  "kun": [],
+  "mean": [
+   "Sino-",
+   "China"
+  ],
+  "rank": 429
+ },
+ {
+  "k": "糸",
+  "freq": 1488,
+  "grade": 1,
+  "sc": 6,
+  "on": [
+   "シ"
+  ],
+  "kun": [
+   "いと"
+  ],
+  "mean": [
+   "thread"
+  ],
+  "rank": 430
+ },
+ {
+  "k": "才",
+  "freq": 1497,
+  "grade": 2,
+  "sc": 3,
+  "on": [
+   "サイ"
+  ],
+  "kun": [],
+  "mean": [
+   "genius",
+   "years old",
+   "cubic shaku"
+  ],
+  "rank": 431
+ },
+ {
+  "k": "麦",
+  "freq": 1615,
+  "grade": 2,
+  "sc": 7,
+  "on": [
+   "バク"
+  ],
+  "kun": [
+   "むぎ"
+  ],
+  "mean": [
+   "barley",
+   "wheat"
+  ],
+  "rank": 432
+ },
+ {
+  "k": "鼻",
+  "freq": 1632,
+  "grade": 3,
+  "sc": 14,
+  "on": [
+   "ビ"
+  ],
+  "kun": [
+   "はな"
+  ],
+  "mean": [
+   "nose",
+   "snout"
+  ],
+  "rank": 433
+ },
+ {
+  "k": "貝",
+  "freq": 1787,
+  "grade": 1,
+  "sc": 7,
+  "on": [
+   "バイ"
+  ],
+  "kun": [
+   "かい"
+  ],
+  "mean": [
+   "shellfish"
+  ],
+  "rank": 434
+ },
+ {
+  "k": "刀",
+  "freq": 1794,
+  "grade": 2,
+  "sc": 2,
+  "on": [
+   "トウ"
+  ],
+  "kun": [
+   "かたな",
+   "そり"
+  ],
+  "mean": [
+   "sword",
+   "saber",
+   "knife"
+  ],
+  "rank": 435
+ },
+ {
+  "k": "弓",
+  "freq": 1802,
+  "grade": 2,
+  "sc": 3,
+  "on": [
+   "キュウ"
+  ],
+  "kun": [
+   "ゆみ"
+  ],
+  "mean": [
+   "bow",
+   "bow (archery, violin)"
+  ],
+  "rank": 436
+ },
+ {
+  "k": "皿",
+  "freq": 1812,
+  "grade": 3,
+  "sc": 5,
+  "on": [
+   "ベイ"
+  ],
+  "kun": [
+   "さら"
+  ],
+  "mean": [
+   "dish",
+   "a helping",
+   "plate"
+  ],
+  "rank": 437
+ },
+ {
+  "k": "羊",
+  "freq": 1852,
+  "grade": 3,
+  "sc": 6,
+  "on": [
+   "ヨウ"
+  ],
+  "kun": [
+   "ひつじ"
+  ],
+  "mean": [
+   "sheep"
+  ],
+  "rank": 438
+ },
+ {
+  "k": "笛",
+  "freq": 1928,
+  "grade": 3,
+  "sc": 11,
+  "on": [
+   "テキ"
+  ],
+  "kun": [
+   "ふえ"
+  ],
+  "mean": [
+   "flute",
+   "clarinet",
+   "pipe",
+   "whistle",
+   "bagpipe",
+   "piccolo"
+  ],
+  "rank": 439
+ },
+ {
+  "k": "汽",
+  "freq": 2020,
+  "grade": 2,
+  "sc": 7,
+  "on": [
+   "キ"
+  ],
+  "kun": [],
+  "mean": [
+   "vapor",
+   "steam"
+  ],
+  "rank": 440
+ }
+]
