@@ -139,10 +139,12 @@ for i, e in enumerate(entries):
     e['page'] = page_num(i)
 
 # Lightweight global index: every kanji, linking straight to the page (and
-# in-page anchor) that will actually contain it once split up.
+# in-page anchor) that will actually contain it once split up. data-search
+# lets the search box filter this list too, so a kanji on another page can
+# still be found and jumped to even though its full card isn't loaded here.
 index_cells = [
-    '<a class="icell" href="%s#k%d" title="%s"><span class="ik">%s</span><span class="in">%d</span></a>'
-    % (page_file(e['page']), e['rank'], E(e['kw']), E(e['k']), e['rank'])
+    '<a class="icell" href="%s#k%d" title="%s" data-search="%s"><span class="ik">%s</span><span class="in">%d</span></a>'
+    % (page_file(e['page']), e['rank'], E(e['kw']), E((e['k'] + ' ' + e['kw']).lower()), E(e['k']), e['rank'])
     for e in entries
 ]
 
@@ -377,6 +379,7 @@ window.addEventListener('beforeprint', renderAll);
 // search
 const q=document.getElementById('q'), cards=[...document.querySelectorAll('.card')];
 const empty=document.getElementById('empty');
+const idx=document.getElementById('idx'), icells=[...document.querySelectorAll('.icell')];
 q.addEventListener('input',()=>{
   const v=q.value.trim().toLowerCase();
   let n=0;
@@ -386,7 +389,14 @@ q.addEventListener('input',()=>{
     if(hit){ n++; if(v) renderStrokes(c.querySelector('.strokes')); }
   }
   empty.classList.toggle('hidden', n>0);
-  document.getElementById('idx').classList.toggle('hidden', !!v);
+  let m=0;
+  for(const el of icells){
+    const hit = !v || el.dataset.search.includes(v);
+    el.classList.toggle('hidden', !hit);
+    if(hit) m++;
+  }
+  document.getElementById('idxempty').classList.toggle('hidden', !v || m>0);
+  if(v) idx.open = true;
 });
 
 // theme
@@ -433,11 +443,12 @@ BODY_TEMPLATE = """
   <details class="indexwrap" id="idx">
     <summary>All %d kanji &mdash; jump to one</summary>
     <div class="index">%s</div>
+    <p id="idxempty" class="empty hidden">No kanji match that search.</p>
   </details>
 
   %s
 
-  <div id="empty" class="empty hidden">Nothing matches that search.</div>
+  <div id="empty" class="empty hidden">Not on this page &mdash; check the index above, it jumps straight to the right page.</div>
 
   %s
 
